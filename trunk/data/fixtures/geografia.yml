@@ -1,0 +1,4595 @@
+Estado:
+  Estado_2:
+    nombre_estado: Amazonas
+  Estado_3:
+    nombre_estado: Anzoátegui
+  Estado_4:
+    nombre_estado: Apure
+  Estado_5:
+    nombre_estado: Aragua
+  Estado_6:
+    nombre_estado: Barinas
+  Estado_7:
+    nombre_estado: Bolívar
+  Estado_8:
+    nombre_estado: Carabobo
+  Estado_9:
+    nombre_estado: Cojedes
+  Estado_10:
+    nombre_estado: 'Delta Amacuro'
+  Estado_11:
+    nombre_estado: Falcón
+  Estado_12:
+    nombre_estado: Guárico
+  Estado_13:
+    nombre_estado: Lara
+  Estado_14:
+    nombre_estado: Mérida
+  Estado_15:
+    nombre_estado: Miranda
+  Estado_16:
+    nombre_estado: Monagas
+  Estado_17:
+    nombre_estado: 'Nueva Esparta'
+  Estado_18:
+    nombre_estado: Portuguesa
+  Estado_19:
+    nombre_estado: Sucre
+  Estado_20:
+    nombre_estado: Táchira
+  Estado_21:
+    nombre_estado: Trujillo
+  Estado_22:
+    nombre_estado: Yaracuy
+  Estado_23:
+    nombre_estado: Zulia
+  Estado_24:
+    nombre_estado: Vargas
+  Estado_88:
+    nombre_estado: 'Dependencias Federales'
+  Estado_1:
+    nombre_estado: 'Distrito Capital'
+Parroquia:
+  Parroquia_20101:
+    nombre_parroquia: 'Capital Alto Orinoco'
+    Municipio: Municipio_201
+  Parroquia_20102:
+    nombre_parroquia: Huachamacare
+    Municipio: Municipio_201
+  Parroquia_20103:
+    nombre_parroquia: Marawaka
+    Municipio: Municipio_201
+  Parroquia_20104:
+    nombre_parroquia: Mavaca
+    Municipio: Municipio_201
+  Parroquia_20105:
+    nombre_parroquia: 'Sierra Parima'
+    Municipio: Municipio_201
+  Parroquia_20201:
+    nombre_parroquia: 'Capital Atabapo'
+    Municipio: Municipio_202
+  Parroquia_20202:
+    nombre_parroquia: Ucata
+    Municipio: Municipio_202
+  Parroquia_20203:
+    nombre_parroquia: Yapacana
+    Municipio: Municipio_202
+  Parroquia_20204:
+    nombre_parroquia: Caname
+    Municipio: Municipio_202
+  Parroquia_20301:
+    nombre_parroquia: 'Fernando Girón Tovar'
+    Municipio: Municipio_203
+  Parroquia_20302:
+    nombre_parroquia: 'Luis Alberto Gómez'
+    Municipio: Municipio_203
+  Parroquia_20303:
+    nombre_parroquia: Parhueña
+    Municipio: Municipio_203
+  Parroquia_20304:
+    nombre_parroquia: Platanillal
+    Municipio: Municipio_203
+  Parroquia_20401:
+    nombre_parroquia: 'Capital Autana'
+    Municipio: Municipio_204
+  Parroquia_20402:
+    nombre_parroquia: Samariapo
+    Municipio: Municipio_204
+  Parroquia_20403:
+    nombre_parroquia: Sipapo
+    Municipio: Municipio_204
+  Parroquia_20404:
+    nombre_parroquia: Munduapo
+    Municipio: Municipio_204
+  Parroquia_20405:
+    nombre_parroquia: Guayapo
+    Municipio: Municipio_204
+  Parroquia_20501:
+    nombre_parroquia: Victorino
+    Municipio: Municipio_205
+  Parroquia_20502:
+    nombre_parroquia: Comunidad
+    Municipio: Municipio_205
+  Parroquia_20601:
+    nombre_parroquia: 'Capital Manapiare'
+    Municipio: Municipio_206
+  Parroquia_20602:
+    nombre_parroquia: 'Alto Ventuari'
+    Municipio: Municipio_206
+  Parroquia_20603:
+    nombre_parroquia: 'Medio Ventuari'
+    Municipio: Municipio_206
+  Parroquia_20604:
+    nombre_parroquia: 'Bajo Ventuari'
+    Municipio: Municipio_206
+  Parroquia_20701:
+    nombre_parroquia: 'Capital Río Negro'
+    Municipio: Municipio_207
+  Parroquia_20702:
+    nombre_parroquia: Solano
+    Municipio: Municipio_207
+  Parroquia_20703:
+    nombre_parroquia: Casiquiare
+    Municipio: Municipio_207
+  Parroquia_20704:
+    nombre_parroquia: Cocuy
+    Municipio: Municipio_207
+  Parroquia_30101:
+    nombre_parroquia: Anaco
+    Municipio: Municipio_301
+  Parroquia_30102:
+    nombre_parroquia: 'San Joaquín'
+    Municipio: Municipio_301
+  Parroquia_30201:
+    nombre_parroquia: 'Capital Aragua'
+    Municipio: Municipio_302
+  Parroquia_30202:
+    nombre_parroquia: Cachipo
+    Municipio: Municipio_302
+  Parroquia_30301:
+    nombre_parroquia: 'Capital Fernando de Peñalver'
+    Municipio: Municipio_303
+  Parroquia_30302:
+    nombre_parroquia: 'San Miguel'
+    Municipio: Municipio_303
+  Parroquia_30303:
+    nombre_parroquia: Sucre
+    Municipio: Municipio_303
+  Parroquia_30401:
+    nombre_parroquia: 'Valle de Guanape'
+    Municipio: Municipio_304
+  Parroquia_30402:
+    nombre_parroquia: 'Santa Bárbara'
+    Municipio: Municipio_304
+  Parroquia_30501:
+    nombre_parroquia: 'Capital Francisco de Miranda'
+    Municipio: Municipio_305
+  Parroquia_30502:
+    nombre_parroquia: Atapirire
+    Municipio: Municipio_305
+  Parroquia_30503:
+    nombre_parroquia: 'Boca del Pao'
+    Municipio: Municipio_305
+  Parroquia_30504:
+    nombre_parroquia: 'El Pao'
+    Municipio: Municipio_305
+  Parroquia_30505:
+    nombre_parroquia: Múcura
+    Municipio: Municipio_305
+  Parroquia_30601:
+    nombre_parroquia: Guanta
+    Municipio: Municipio_306
+  Parroquia_30602:
+    nombre_parroquia: Chorrerón
+    Municipio: Municipio_306
+  Parroquia_30701:
+    nombre_parroquia: 'Capital Independencia'
+    Municipio: Municipio_307
+  Parroquia_30702:
+    nombre_parroquia: Mamo
+    Municipio: Municipio_307
+  Parroquia_30801:
+    nombre_parroquia: 'Puerto La Cruz'
+    Municipio: Municipio_308
+  Parroquia_30802:
+    nombre_parroquia: Pozuelos
+    Municipio: Municipio_308
+  Parroquia_30901:
+    nombre_parroquia: Onoto
+    Municipio: Municipio_309
+  Parroquia_30902:
+    nombre_parroquia: 'San Pablo'
+    Municipio: Municipio_309
+  Parroquia_31001:
+    nombre_parroquia: 'Capital José Gregorio Monagas'
+    Municipio: Municipio_310
+  Parroquia_31002:
+    nombre_parroquia: Piar
+    Municipio: Municipio_310
+  Parroquia_31003:
+    nombre_parroquia: 'San Diego de Cabrutica'
+    Municipio: Municipio_310
+  Parroquia_31004:
+    nombre_parroquia: 'Santa Clara'
+    Municipio: Municipio_310
+  Parroquia_31005:
+    nombre_parroquia: Uverito
+    Municipio: Municipio_310
+  Parroquia_31006:
+    nombre_parroquia: Zuata
+    Municipio: Municipio_310
+  Parroquia_31101:
+    nombre_parroquia: 'Capital Libertad'
+    Municipio: Municipio_311
+  Parroquia_31102:
+    nombre_parroquia: 'El Carito'
+    Municipio: Municipio_311
+  Parroquia_31103:
+    nombre_parroquia: 'Santa Inés'
+    Municipio: Municipio_311
+  Parroquia_31201:
+    nombre_parroquia: Clarines
+    Municipio: Municipio_312
+  Parroquia_31202:
+    nombre_parroquia: Guanape
+    Municipio: Municipio_312
+  Parroquia_31203:
+    nombre_parroquia: 'Sabana de Uchire'
+    Municipio: Municipio_312
+  Parroquia_31301:
+    nombre_parroquia: 'Capital Pedro María Freites'
+    Municipio: Municipio_313
+  Parroquia_31302:
+    nombre_parroquia: Libertador
+    Municipio: Municipio_313
+  Parroquia_31303:
+    nombre_parroquia: 'Santa Rosa'
+    Municipio: Municipio_313
+  Parroquia_31304:
+    nombre_parroquia: Urica
+    Municipio: Municipio_313
+  Parroquia_31401:
+    nombre_parroquia: Píritu
+    Municipio: Municipio_314
+  Parroquia_31402:
+    nombre_parroquia: 'San Francisco'
+    Municipio: Municipio_314
+  Parroquia_31501:
+    nombre_parroquia: 'Capital San José de Guanipa'
+    Municipio: Municipio_315
+  Parroquia_31601:
+    nombre_parroquia: 'Boca de Uchire'
+    Municipio: Municipio_316
+  Parroquia_31602:
+    nombre_parroquia: 'Boca de Chávez'
+    Municipio: Municipio_316
+  Parroquia_31701:
+    nombre_parroquia: 'Santa Ana'
+    Municipio: Municipio_317
+  Parroquia_31702:
+    nombre_parroquia: 'Pueblo Nuevo'
+    Municipio: Municipio_317
+  Parroquia_31801:
+    nombre_parroquia: 'El Carmen'
+    Municipio: Municipio_318
+  Parroquia_31802:
+    nombre_parroquia: 'San Cristóbal'
+    Municipio: Municipio_318
+  Parroquia_31803:
+    nombre_parroquia: Bergantín
+    Municipio: Municipio_318
+  Parroquia_31804:
+    nombre_parroquia: Caigua
+    Municipio: Municipio_318
+  Parroquia_31805:
+    nombre_parroquia: 'El Pilar'
+    Municipio: Municipio_318
+  Parroquia_31806:
+    nombre_parroquia: Naricual
+    Municipio: Municipio_318
+  Parroquia_31901:
+    nombre_parroquia: 'Edmundo Barrios'
+    Municipio: Municipio_319
+  Parroquia_31902:
+    nombre_parroquia: 'Miguel Otero Silva'
+    Municipio: Municipio_319
+  Parroquia_32001:
+    nombre_parroquia: 'El Chaparro'
+    Municipio: Municipio_320
+  Parroquia_32002:
+    nombre_parroquia: 'Tomás Alfaro Calatrava'
+    Municipio: Municipio_320
+  Parroquia_32101:
+    nombre_parroquia: Lecherías
+    Municipio: Municipio_321
+  Parroquia_32102:
+    nombre_parroquia: 'El Morro'
+    Municipio: Municipio_321
+  Parroquia_40101:
+    nombre_parroquia: Achaguas
+    Municipio: Municipio_401
+  Parroquia_40102:
+    nombre_parroquia: Apurito
+    Municipio: Municipio_401
+  Parroquia_40103:
+    nombre_parroquia: 'El Yagual'
+    Municipio: Municipio_401
+  Parroquia_40104:
+    nombre_parroquia: Guachara
+    Municipio: Municipio_401
+  Parroquia_40105:
+    nombre_parroquia: Mucuritas
+    Municipio: Municipio_401
+  Parroquia_40106:
+    nombre_parroquia: 'Queseras del Medio'
+    Municipio: Municipio_401
+  Parroquia_40201:
+    nombre_parroquia: Biruaca
+    Municipio: Municipio_402
+  Parroquia_40301:
+    nombre_parroquia: Bruzual
+    Municipio: Municipio_403
+  Parroquia_40302:
+    nombre_parroquia: Mantecal
+    Municipio: Municipio_403
+  Parroquia_40303:
+    nombre_parroquia: Quintero
+    Municipio: Municipio_403
+  Parroquia_40304:
+    nombre_parroquia: 'Rincón Hondo'
+    Municipio: Municipio_403
+  Parroquia_40305:
+    nombre_parroquia: 'San Vicente'
+    Municipio: Municipio_403
+  Parroquia_40401:
+    nombre_parroquia: Guasdualito
+    Municipio: Municipio_404
+  Parroquia_40402:
+    nombre_parroquia: Aramendi
+    Municipio: Municipio_404
+  Parroquia_40403:
+    nombre_parroquia: 'El Amparo'
+    Municipio: Municipio_404
+  Parroquia_40404:
+    nombre_parroquia: 'San Camilo'
+    Municipio: Municipio_404
+  Parroquia_40405:
+    nombre_parroquia: Urdaneta
+    Municipio: Municipio_404
+  Parroquia_40501:
+    nombre_parroquia: 'San Juan de Payara'
+    Municipio: Municipio_405
+  Parroquia_40502:
+    nombre_parroquia: Codazzi
+    Municipio: Municipio_405
+  Parroquia_40503:
+    nombre_parroquia: Cunaviche
+    Municipio: Municipio_405
+  Parroquia_40601:
+    nombre_parroquia: Elorza
+    Municipio: Municipio_406
+  Parroquia_40602:
+    nombre_parroquia: 'La Trinidad'
+    Municipio: Municipio_406
+  Parroquia_40701:
+    nombre_parroquia: 'San Fernando'
+    Municipio: Municipio_407
+  Parroquia_40702:
+    nombre_parroquia: 'El Recreo'
+    Municipio: Municipio_407
+  Parroquia_40703:
+    nombre_parroquia: Peñalver
+    Municipio: Municipio_407
+  Parroquia_40704:
+    nombre_parroquia: 'San Rafael de Atamaica'
+    Municipio: Municipio_407
+  Parroquia_50101:
+    nombre_parroquia: 'Capital Bolívar'
+    Municipio: Municipio_501
+  Parroquia_50201:
+    nombre_parroquia: 'Capital Camatagua'
+    Municipio: Municipio_502
+  Parroquia_50202:
+    nombre_parroquia: 'Carmen de Cura'
+    Municipio: Municipio_502
+  Parroquia_50302:
+    nombre_parroquia: Choroní
+    Municipio: Municipio_503
+  Parroquia_50303:
+    nombre_parroquia: 'Las Delicias'
+    Municipio: Municipio_503
+  Parroquia_50304:
+    nombre_parroquia: 'Madre María de San José'
+    Municipio: Municipio_503
+  Parroquia_50305:
+    nombre_parroquia: 'Joaquín Crespo'
+    Municipio: Municipio_503
+  Parroquia_50306:
+    nombre_parroquia: 'Pedro José Ovalles'
+    Municipio: Municipio_503
+  Parroquia_50307:
+    nombre_parroquia: 'José Casanova Godoy'
+    Municipio: Municipio_503
+  Parroquia_50308:
+    nombre_parroquia: 'Andrés Eloy Blanco'
+    Municipio: Municipio_503
+  Parroquia_50309:
+    nombre_parroquia: 'Los Tacariguas'
+    Municipio: Municipio_503
+  Parroquia_50401:
+    nombre_parroquia: 'Capital José Angel Lamas'
+    Municipio: Municipio_504
+  Parroquia_50501:
+    nombre_parroquia: 'Capital José Félix Ribas'
+    Municipio: Municipio_505
+  Parroquia_50502:
+    nombre_parroquia: 'Castor Nieves Ríos'
+    Municipio: Municipio_505
+  Parroquia_50503:
+    nombre_parroquia: 'Las Guacamayas'
+    Municipio: Municipio_505
+  Parroquia_50504:
+    nombre_parroquia: 'Pao de Zárate'
+    Municipio: Municipio_505
+  Parroquia_50505:
+    nombre_parroquia: Zuata
+    Municipio: Municipio_505
+  Parroquia_50601:
+    nombre_parroquia: 'Capital José Rafael Revenga'
+    Municipio: Municipio_506
+  Parroquia_50701:
+    nombre_parroquia: 'Capital Libertador'
+    Municipio: Municipio_507
+  Parroquia_50702:
+    nombre_parroquia: 'San Martín de Porres'
+    Municipio: Municipio_507
+  Parroquia_50801:
+    nombre_parroquia: 'Capital Mario Briceño Iragorry'
+    Municipio: Municipio_508
+  Parroquia_50802:
+    nombre_parroquia: 'Caña de Azúcar'
+    Municipio: Municipio_508
+  Parroquia_10106:
+    nombre_parroquia: Coche
+    Municipio: Municipio_101
+  Parroquia_10118:
+    nombre_parroquia: 'San Pedro'
+    Municipio: Municipio_101
+  Parroquia_10119:
+    nombre_parroquia: 'Santa Rosalía'
+    Municipio: Municipio_101
+  Parroquia_10102:
+    nombre_parroquia: Antímano
+    Municipio: Municipio_101
+  Parroquia_10103:
+    nombre_parroquia: Candelaria
+    Municipio: Municipio_101
+  Parroquia_10104:
+    nombre_parroquia: Caricuao
+    Municipio: Municipio_101
+  Parroquia_10105:
+    nombre_parroquia: Catedral
+    Municipio: Municipio_101
+  Parroquia_10107:
+    nombre_parroquia: 'El Junquito'
+    Municipio: Municipio_101
+  Parroquia_50901:
+    nombre_parroquia: 'Capital San Casimiro'
+    Municipio: Municipio_509
+  Parroquia_50902:
+    nombre_parroquia: Güiripa
+    Municipio: Municipio_509
+  Parroquia_50903:
+    nombre_parroquia: 'Ollas de Caramacate'
+    Municipio: Municipio_509
+  Parroquia_50904:
+    nombre_parroquia: 'Valle Morín'
+    Municipio: Municipio_509
+  Parroquia_51001:
+    nombre_parroquia: 'Capital San Sebastián'
+    Municipio: Municipio_510
+  Parroquia_51101:
+    nombre_parroquia: 'Capital Santiago Mariño'
+    Municipio: Municipio_511
+  Parroquia_51102:
+    nombre_parroquia: 'Arévalo Aponte'
+    Municipio: Municipio_511
+  Parroquia_51103:
+    nombre_parroquia: Chuao
+    Municipio: Municipio_511
+  Parroquia_51104:
+    nombre_parroquia: 'Samán de Güere'
+    Municipio: Municipio_511
+  Parroquia_51105:
+    nombre_parroquia: 'Alfredo Pacheco Miranda'
+    Municipio: Municipio_511
+  Parroquia_51201:
+    nombre_parroquia: 'Capital Santos Michelena'
+    Municipio: Municipio_512
+  Parroquia_51202:
+    nombre_parroquia: Tiara
+    Municipio: Municipio_512
+  Parroquia_51301:
+    nombre_parroquia: 'Capital Sucre'
+    Municipio: Municipio_513
+  Parroquia_51302:
+    nombre_parroquia: 'Bella Vista'
+    Municipio: Municipio_513
+  Parroquia_51401:
+    nombre_parroquia: 'Capital Tovar'
+    Municipio: Municipio_514
+  Parroquia_51501:
+    nombre_parroquia: 'Capital Urdaneta'
+    Municipio: Municipio_515
+  Parroquia_51502:
+    nombre_parroquia: 'Las Peñitas'
+    Municipio: Municipio_515
+  Parroquia_51503:
+    nombre_parroquia: 'San Francisco de Cara'
+    Municipio: Municipio_515
+  Parroquia_51504:
+    nombre_parroquia: Taguay
+    Municipio: Municipio_515
+  Parroquia_51601:
+    nombre_parroquia: 'Capital Zamora'
+    Municipio: Municipio_516
+  Parroquia_51602:
+    nombre_parroquia: Magdaleno
+    Municipio: Municipio_516
+  Parroquia_51603:
+    nombre_parroquia: 'San Francisco de Asís'
+    Municipio: Municipio_516
+  Parroquia_51604:
+    nombre_parroquia: 'Valles de Tucutunemo'
+    Municipio: Municipio_516
+  Parroquia_51605:
+    nombre_parroquia: 'Augusto Mijares'
+    Municipio: Municipio_516
+  Parroquia_51701:
+    nombre_parroquia: 'Capital Francisco Linares Alcántara'
+    Municipio: Municipio_517
+  Parroquia_51702:
+    nombre_parroquia: 'Francisco de Miranda'
+    Municipio: Municipio_517
+  Parroquia_51703:
+    nombre_parroquia: 'Monseñor Feliciano González'
+    Municipio: Municipio_517
+  Parroquia_51801:
+    nombre_parroquia: 'Capital Ocumare de La Costa de Oro'
+    Municipio: Municipio_518
+  Parroquia_60101:
+    nombre_parroquia: Sabaneta
+    Municipio: Municipio_601
+  Parroquia_60102:
+    nombre_parroquia: 'Rodríguez Domínguez'
+    Municipio: Municipio_601
+  Parroquia_60201:
+    nombre_parroquia: Ticoporo
+    Municipio: Municipio_602
+  Parroquia_60202:
+    nombre_parroquia: 'Andrés Bello'
+    Municipio: Municipio_602
+  Parroquia_60203:
+    nombre_parroquia: 'Nicolás Pulido'
+    Municipio: Municipio_602
+  Parroquia_60301:
+    nombre_parroquia: Arismendi
+    Municipio: Municipio_603
+  Parroquia_60302:
+    nombre_parroquia: Guadarrama
+    Municipio: Municipio_603
+  Parroquia_60303:
+    nombre_parroquia: 'La Unión'
+    Municipio: Municipio_603
+  Parroquia_60304:
+    nombre_parroquia: 'San Antonio'
+    Municipio: Municipio_603
+  Parroquia_60401:
+    nombre_parroquia: Barinas
+    Municipio: Municipio_604
+  Parroquia_60402:
+    nombre_parroquia: 'Alfredo Arvelo Larriva'
+    Municipio: Municipio_604
+  Parroquia_60403:
+    nombre_parroquia: 'San Silvestre'
+    Municipio: Municipio_604
+  Parroquia_60404:
+    nombre_parroquia: 'Santa Inés'
+    Municipio: Municipio_604
+  Parroquia_60405:
+    nombre_parroquia: 'Santa Lucía'
+    Municipio: Municipio_604
+  Parroquia_60406:
+    nombre_parroquia: Torunos
+    Municipio: Municipio_604
+  Parroquia_60407:
+    nombre_parroquia: 'El Carmen'
+    Municipio: Municipio_604
+  Parroquia_60408:
+    nombre_parroquia: 'Rómulo Betancourt'
+    Municipio: Municipio_604
+  Parroquia_60409:
+    nombre_parroquia: 'Corazón de Jesús'
+    Municipio: Municipio_604
+  Parroquia_60410:
+    nombre_parroquia: 'Ramón Ignacio Méndez'
+    Municipio: Municipio_604
+  Parroquia_60411:
+    nombre_parroquia: 'Alto Barinas'
+    Municipio: Municipio_604
+  Parroquia_60412:
+    nombre_parroquia: 'Manuel Palacio Fajardo'
+    Municipio: Municipio_604
+  Parroquia_60413:
+    nombre_parroquia: 'Juan Antonio Rodríguez Domínguez'
+    Municipio: Municipio_604
+  Parroquia_60414:
+    nombre_parroquia: 'Dominga Ortiz de Páez'
+    Municipio: Municipio_604
+  Parroquia_60501:
+    nombre_parroquia: Barinitas
+    Municipio: Municipio_605
+  Parroquia_60502:
+    nombre_parroquia: Altamira
+    Municipio: Municipio_605
+  Parroquia_60503:
+    nombre_parroquia: Calderas
+    Municipio: Municipio_605
+  Parroquia_60601:
+    nombre_parroquia: Barrancas
+    Municipio: Municipio_606
+  Parroquia_60602:
+    nombre_parroquia: 'El Socorro'
+    Municipio: Municipio_606
+  Parroquia_60603:
+    nombre_parroquia: Masparrito
+    Municipio: Municipio_606
+  Parroquia_60701:
+    nombre_parroquia: 'Santa Bárbara'
+    Municipio: Municipio_607
+  Parroquia_60702:
+    nombre_parroquia: 'José Ignacio del Pumar'
+    Municipio: Municipio_607
+  Parroquia_60703:
+    nombre_parroquia: 'Pedro Briceño Méndez'
+    Municipio: Municipio_607
+  Parroquia_60704:
+    nombre_parroquia: 'Ramón Ignacio Méndez'
+    Municipio: Municipio_607
+  Parroquia_60801:
+    nombre_parroquia: Obispos
+    Municipio: Municipio_608
+  Parroquia_60802:
+    nombre_parroquia: 'El Real'
+    Municipio: Municipio_608
+  Parroquia_60803:
+    nombre_parroquia: 'La Luz'
+    Municipio: Municipio_608
+  Parroquia_60804:
+    nombre_parroquia: 'Los Guasimitos'
+    Municipio: Municipio_608
+  Parroquia_60901:
+    nombre_parroquia: 'Ciudad Bolivia'
+    Municipio: Municipio_609
+  Parroquia_60902:
+    nombre_parroquia: 'Ignacio Briceño'
+    Municipio: Municipio_609
+  Parroquia_60903:
+    nombre_parroquia: 'José Félix Ribas'
+    Municipio: Municipio_609
+  Parroquia_60904:
+    nombre_parroquia: Páez
+    Municipio: Municipio_609
+  Parroquia_61001:
+    nombre_parroquia: Libertad
+    Municipio: Municipio_610
+  Parroquia_61002:
+    nombre_parroquia: Dolores
+    Municipio: Municipio_610
+  Parroquia_61003:
+    nombre_parroquia: 'Palacios Fajardo'
+    Municipio: Municipio_610
+  Parroquia_61004:
+    nombre_parroquia: 'Santa Rosa'
+    Municipio: Municipio_610
+  Parroquia_61101:
+    nombre_parroquia: 'Ciudad de Nutrias'
+    Municipio: Municipio_611
+  Parroquia_61102:
+    nombre_parroquia: 'El Regalo'
+    Municipio: Municipio_611
+  Parroquia_61103:
+    nombre_parroquia: 'Puerto de Nutrias'
+    Municipio: Municipio_611
+  Parroquia_61104:
+    nombre_parroquia: 'Santa Catalina'
+    Municipio: Municipio_611
+  Parroquia_61201:
+    nombre_parroquia: 'El Cantón'
+    Municipio: Municipio_612
+  Parroquia_61202:
+    nombre_parroquia: 'Santa Cruz de Guacas'
+    Municipio: Municipio_612
+  Parroquia_61203:
+    nombre_parroquia: 'Puerto Vivas'
+    Municipio: Municipio_612
+  Parroquia_70101:
+    nombre_parroquia: Cachamay
+    Municipio: Municipio_701
+  Parroquia_70102:
+    nombre_parroquia: Chirica
+    Municipio: Municipio_701
+  Parroquia_70103:
+    nombre_parroquia: 'Dalla Costa'
+    Municipio: Municipio_701
+  Parroquia_70104:
+    nombre_parroquia: 'Once de Abril'
+    Municipio: Municipio_701
+  Parroquia_70105:
+    nombre_parroquia: 'Simón Bolívar'
+    Municipio: Municipio_701
+  Parroquia_70106:
+    nombre_parroquia: Unare
+    Municipio: Municipio_701
+  Parroquia_70107:
+    nombre_parroquia: Universidad
+    Municipio: Municipio_701
+  Parroquia_70108:
+    nombre_parroquia: 'Vista al Sol'
+    Municipio: Municipio_701
+  Parroquia_70109:
+    nombre_parroquia: 'Pozo Verde'
+    Municipio: Municipio_701
+  Parroquia_70110:
+    nombre_parroquia: Yocoima
+    Municipio: Municipio_701
+  Parroquia_70201:
+    nombre_parroquia: 'Sección Capital Cedeño'
+    Municipio: Municipio_702
+  Parroquia_70202:
+    nombre_parroquia: Altagracia
+    Municipio: Municipio_702
+  Parroquia_70203:
+    nombre_parroquia: 'Ascensión Farreras'
+    Municipio: Municipio_702
+  Parroquia_70204:
+    nombre_parroquia: Guaniamo
+    Municipio: Municipio_702
+  Parroquia_70205:
+    nombre_parroquia: 'La Urbana'
+    Municipio: Municipio_702
+  Parroquia_70206:
+    nombre_parroquia: Pijiguaos
+    Municipio: Municipio_702
+  Parroquia_70301:
+    nombre_parroquia: 'Capital El Callao'
+    Municipio: Municipio_703
+  Parroquia_70401:
+    nombre_parroquia: 'Sección Capital Gran Sabana'
+    Municipio: Municipio_704
+  Parroquia_70402:
+    nombre_parroquia: Ikabarú
+    Municipio: Municipio_704
+  Parroquia_70501:
+    nombre_parroquia: 'Agua Salada'
+    Municipio: Municipio_705
+  Parroquia_70502:
+    nombre_parroquia: Catedral
+    Municipio: Municipio_705
+  Parroquia_70503:
+    nombre_parroquia: 'José Antonio Páez'
+    Municipio: Municipio_705
+  Parroquia_70504:
+    nombre_parroquia: 'La Sabanita'
+    Municipio: Municipio_705
+  Parroquia_70505:
+    nombre_parroquia: Marhuanta
+    Municipio: Municipio_705
+  Parroquia_70506:
+    nombre_parroquia: 'Vista Hermosa'
+    Municipio: Municipio_705
+  Parroquia_70507:
+    nombre_parroquia: Orinoco
+    Municipio: Municipio_705
+  Parroquia_70508:
+    nombre_parroquia: Panapana
+    Municipio: Municipio_705
+  Parroquia_70509:
+    nombre_parroquia: Zea
+    Municipio: Municipio_705
+  Parroquia_70601:
+    nombre_parroquia: 'Sección Capital Piar'
+    Municipio: Municipio_706
+  Parroquia_70602:
+    nombre_parroquia: 'Andrés Eloy Blanco'
+    Municipio: Municipio_706
+  Parroquia_70603:
+    nombre_parroquia: 'Pedro Cova'
+    Municipio: Municipio_706
+  Parroquia_70701:
+    nombre_parroquia: 'Sección Capital Raúl Leoni'
+    Municipio: Municipio_707
+  Parroquia_70702:
+    nombre_parroquia: Barceloneta
+    Municipio: Municipio_707
+  Parroquia_70703:
+    nombre_parroquia: 'San Francisco'
+    Municipio: Municipio_707
+  Parroquia_70704:
+    nombre_parroquia: 'Santa Bárbara'
+    Municipio: Municipio_707
+  Parroquia_70801:
+    nombre_parroquia: 'Sección Capital Roscio'
+    Municipio: Municipio_708
+  Parroquia_70802:
+    nombre_parroquia: Salom
+    Municipio: Municipio_708
+  Parroquia_70901:
+    nombre_parroquia: 'Sección Capital Sifontes'
+    Municipio: Municipio_709
+  Parroquia_70902:
+    nombre_parroquia: 'Dalla Costa'
+    Municipio: Municipio_709
+  Parroquia_70903:
+    nombre_parroquia: 'San Isidro'
+    Municipio: Municipio_709
+  Parroquia_71001:
+    nombre_parroquia: 'Sección Capital Sucre'
+    Municipio: Municipio_710
+  Parroquia_71002:
+    nombre_parroquia: Aripao
+    Municipio: Municipio_710
+  Parroquia_71003:
+    nombre_parroquia: Guarataro
+    Municipio: Municipio_710
+  Parroquia_71004:
+    nombre_parroquia: 'Las Majadas'
+    Municipio: Municipio_710
+  Parroquia_71005:
+    nombre_parroquia: Moitaco
+    Municipio: Municipio_710
+  Parroquia_71101:
+    nombre_parroquia: 'Capital Padre Pedro Chien'
+    Municipio: Municipio_711
+  Parroquia_80101:
+    nombre_parroquia: Bejuma
+    Municipio: Municipio_801
+  Parroquia_80102:
+    nombre_parroquia: Canoabo
+    Municipio: Municipio_801
+  Parroquia_80103:
+    nombre_parroquia: 'Simón Bolívar'
+    Municipio: Municipio_801
+  Parroquia_80201:
+    nombre_parroquia: Güigüe
+    Municipio: Municipio_802
+  Parroquia_80202:
+    nombre_parroquia: Belén
+    Municipio: Municipio_802
+  Parroquia_80203:
+    nombre_parroquia: Tacarigua
+    Municipio: Municipio_802
+  Parroquia_80301:
+    nombre_parroquia: 'Aguas Calientes'
+    Municipio: Municipio_803
+  Parroquia_80302:
+    nombre_parroquia: Mariara
+    Municipio: Municipio_803
+  Parroquia_80401:
+    nombre_parroquia: 'Ciudad Alianza'
+    Municipio: Municipio_804
+  Parroquia_80402:
+    nombre_parroquia: Guacara
+    Municipio: Municipio_804
+  Parroquia_80403:
+    nombre_parroquia: Yagua
+    Municipio: Municipio_804
+  Parroquia_80501:
+    nombre_parroquia: Morón
+    Municipio: Municipio_805
+  Parroquia_80502:
+    nombre_parroquia: Urama
+    Municipio: Municipio_805
+  Parroquia_80601:
+    nombre_parroquia: Tocuyito
+    Municipio: Municipio_806
+  Parroquia_80602:
+    nombre_parroquia: Independencia
+    Municipio: Municipio_806
+  Parroquia_80701:
+    nombre_parroquia: 'Los Guayos'
+    Municipio: Municipio_807
+  Parroquia_80801:
+    nombre_parroquia: Miranda
+    Municipio: Municipio_808
+  Parroquia_80901:
+    nombre_parroquia: Montalbán
+    Municipio: Municipio_809
+  Parroquia_81001:
+    nombre_parroquia: Naguanagua
+    Municipio: Municipio_810
+  Parroquia_81101:
+    nombre_parroquia: 'Bartolomé Salom'
+    Municipio: Municipio_811
+  Parroquia_81102:
+    nombre_parroquia: Democracia
+    Municipio: Municipio_811
+  Parroquia_81103:
+    nombre_parroquia: Fraternidad
+    Municipio: Municipio_811
+  Parroquia_81104:
+    nombre_parroquia: Goaigoaza
+    Municipio: Municipio_811
+  Parroquia_81105:
+    nombre_parroquia: 'Juan José Flores'
+    Municipio: Municipio_811
+  Parroquia_81106:
+    nombre_parroquia: Unión
+    Municipio: Municipio_811
+  Parroquia_81107:
+    nombre_parroquia: Borburata
+    Municipio: Municipio_811
+  Parroquia_81108:
+    nombre_parroquia: Patanemo
+    Municipio: Municipio_811
+  Parroquia_81201:
+    nombre_parroquia: 'San Diego'
+    Municipio: Municipio_812
+  Parroquia_81301:
+    nombre_parroquia: 'San Joaquín'
+    Municipio: Municipio_813
+  Parroquia_81401:
+    nombre_parroquia: Candelaria
+    Municipio: Municipio_814
+  Parroquia_81402:
+    nombre_parroquia: Catedral
+    Municipio: Municipio_814
+  Parroquia_81403:
+    nombre_parroquia: 'El Socorro'
+    Municipio: Municipio_814
+  Parroquia_81404:
+    nombre_parroquia: 'Miguel Peña'
+    Municipio: Municipio_814
+  Parroquia_81405:
+    nombre_parroquia: 'Rafael Urdaneta'
+    Municipio: Municipio_814
+  Parroquia_81406:
+    nombre_parroquia: 'San Blas'
+    Municipio: Municipio_814
+  Parroquia_81407:
+    nombre_parroquia: 'San José'
+    Municipio: Municipio_814
+  Parroquia_81408:
+    nombre_parroquia: 'Santa Rosa'
+    Municipio: Municipio_814
+  Parroquia_81409:
+    nombre_parroquia: 'Negro Primero'
+    Municipio: Municipio_814
+  Parroquia_90101:
+    nombre_parroquia: Cojedes
+    Municipio: Municipio_901
+  Parroquia_90102:
+    nombre_parroquia: 'Juan de Mata Suárez'
+    Municipio: Municipio_901
+  Parroquia_90201:
+    nombre_parroquia: Tinaquillo
+    Municipio: Municipio_902
+  Parroquia_90301:
+    nombre_parroquia: 'El Baúl'
+    Municipio: Municipio_903
+  Parroquia_90302:
+    nombre_parroquia: Sucre
+    Municipio: Municipio_903
+  Parroquia_90401:
+    nombre_parroquia: Macapo
+    Municipio: Municipio_904
+  Parroquia_90402:
+    nombre_parroquia: 'La Aguadita'
+    Municipio: Municipio_904
+  Parroquia_90501:
+    nombre_parroquia: 'El Pao'
+    Municipio: Municipio_905
+  Parroquia_90601:
+    nombre_parroquia: 'Libertad de Cojedes'
+    Municipio: Municipio_906
+  Parroquia_90602:
+    nombre_parroquia: 'El Amparo'
+    Municipio: Municipio_906
+  Parroquia_90701:
+    nombre_parroquia: 'Rómulo Gallegos'
+    Municipio: Municipio_907
+  Parroquia_90801:
+    nombre_parroquia: 'San Carlos de Austria'
+    Municipio: Municipio_908
+  Parroquia_90802:
+    nombre_parroquia: 'Juan Angel Bravo'
+    Municipio: Municipio_908
+  Parroquia_90803:
+    nombre_parroquia: 'Manuel Manrique'
+    Municipio: Municipio_908
+  Parroquia_90901:
+    nombre_parroquia: 'General en Jefe José Laurencio Silva'
+    Municipio: Municipio_909
+  Parroquia_100101:
+    nombre_parroquia: Curiapo
+    Municipio: Municipio_1001
+  Parroquia_100102:
+    nombre_parroquia: 'Almirante Luis Brión'
+    Municipio: Municipio_1001
+  Parroquia_100103:
+    nombre_parroquia: 'Francisco Aniceto Lugo'
+    Municipio: Municipio_1001
+  Parroquia_100104:
+    nombre_parroquia: 'Manuel Renaud'
+    Municipio: Municipio_1001
+  Parroquia_100105:
+    nombre_parroquia: 'Padre Barral'
+    Municipio: Municipio_1001
+  Parroquia_100106:
+    nombre_parroquia: 'Santos de Abelgas'
+    Municipio: Municipio_1001
+  Parroquia_100201:
+    nombre_parroquia: Imataca
+    Municipio: Municipio_1002
+  Parroquia_100202:
+    nombre_parroquia: 'Cinco de Julio'
+    Municipio: Municipio_1002
+  Parroquia_100203:
+    nombre_parroquia: 'Juan Bautista Arismendi'
+    Municipio: Municipio_1002
+  Parroquia_100204:
+    nombre_parroquia: 'Manuel Piar'
+    Municipio: Municipio_1002
+  Parroquia_100205:
+    nombre_parroquia: 'Rómulo Gallegos'
+    Municipio: Municipio_1002
+  Parroquia_100301:
+    nombre_parroquia: Pedernales
+    Municipio: Municipio_1003
+  Parroquia_100302:
+    nombre_parroquia: 'Luis Beltrán Prieto Figueroa'
+    Municipio: Municipio_1003
+  Parroquia_100401:
+    nombre_parroquia: 'San José'
+    Municipio: Municipio_1004
+  Parroquia_100402:
+    nombre_parroquia: 'José Vidal Marcano'
+    Municipio: Municipio_1004
+  Parroquia_100403:
+    nombre_parroquia: 'Juan Millán'
+    Municipio: Municipio_1004
+  Parroquia_100404:
+    nombre_parroquia: 'Leonardo Ruíz Pineda'
+    Municipio: Municipio_1004
+  Parroquia_100405:
+    nombre_parroquia: 'Mariscal Antonio José de Sucre'
+    Municipio: Municipio_1004
+  Parroquia_100406:
+    nombre_parroquia: 'Monseñor Argimiro García'
+    Municipio: Municipio_1004
+  Parroquia_100407:
+    nombre_parroquia: 'San Rafael'
+    Municipio: Municipio_1004
+  Parroquia_100408:
+    nombre_parroquia: 'Virgen del Valle'
+    Municipio: Municipio_1004
+  Parroquia_110101:
+    nombre_parroquia: 'San Juan de los Cayos'
+    Municipio: Municipio_1101
+  Parroquia_110102:
+    nombre_parroquia: Capadare
+    Municipio: Municipio_1101
+  Parroquia_110103:
+    nombre_parroquia: 'La Pastora'
+    Municipio: Municipio_1101
+  Parroquia_110104:
+    nombre_parroquia: Libertador
+    Municipio: Municipio_1101
+  Parroquia_110201:
+    nombre_parroquia: 'San Luis'
+    Municipio: Municipio_1102
+  Parroquia_110202:
+    nombre_parroquia: Aracua
+    Municipio: Municipio_1102
+  Parroquia_110203:
+    nombre_parroquia: 'La Peña'
+    Municipio: Municipio_1102
+  Parroquia_110301:
+    nombre_parroquia: Capatárida
+    Municipio: Municipio_1103
+  Parroquia_110302:
+    nombre_parroquia: Bariro
+    Municipio: Municipio_1103
+  Parroquia_110303:
+    nombre_parroquia: Borojó
+    Municipio: Municipio_1103
+  Parroquia_110304:
+    nombre_parroquia: Guajiro
+    Municipio: Municipio_1103
+  Parroquia_110305:
+    nombre_parroquia: Seque
+    Municipio: Municipio_1103
+  Parroquia_110306:
+    nombre_parroquia: Zazárida
+    Municipio: Municipio_1103
+  Parroquia_110401:
+    nombre_parroquia: 'Capital Cacique Manaure'
+    Municipio: Municipio_1104
+  Parroquia_110501:
+    nombre_parroquia: Carirubana
+    Municipio: Municipio_1105
+  Parroquia_110502:
+    nombre_parroquia: Norte
+    Municipio: Municipio_1105
+  Parroquia_110503:
+    nombre_parroquia: 'Punta Cardón'
+    Municipio: Municipio_1105
+  Parroquia_110504:
+    nombre_parroquia: 'Santa Ana'
+    Municipio: Municipio_1105
+  Parroquia_110601:
+    nombre_parroquia: 'La Vela de Coro'
+    Municipio: Municipio_1106
+  Parroquia_110602:
+    nombre_parroquia: Acurigua
+    Municipio: Municipio_1106
+  Parroquia_110603:
+    nombre_parroquia: Guaibacoa
+    Municipio: Municipio_1106
+  Parroquia_110604:
+    nombre_parroquia: 'Las Calderas'
+    Municipio: Municipio_1106
+  Parroquia_110605:
+    nombre_parroquia: Macoruca
+    Municipio: Municipio_1106
+  Parroquia_110701:
+    nombre_parroquia: 'Capital Dabajuro'
+    Municipio: Municipio_1107
+  Parroquia_110801:
+    nombre_parroquia: Pedregal
+    Municipio: Municipio_1108
+  Parroquia_110802:
+    nombre_parroquia: 'Agua Clara'
+    Municipio: Municipio_1108
+  Parroquia_110803:
+    nombre_parroquia: Avaria
+    Municipio: Municipio_1108
+  Parroquia_110804:
+    nombre_parroquia: 'Piedra Grande'
+    Municipio: Municipio_1108
+  Parroquia_110805:
+    nombre_parroquia: Purureche
+    Municipio: Municipio_1108
+  Parroquia_110901:
+    nombre_parroquia: 'Pueblo Nuevo'
+    Municipio: Municipio_1109
+  Parroquia_110902:
+    nombre_parroquia: Adícora
+    Municipio: Municipio_1109
+  Parroquia_110903:
+    nombre_parroquia: Baraived
+    Municipio: Municipio_1109
+  Parroquia_110904:
+    nombre_parroquia: 'Buena Vista'
+    Municipio: Municipio_1109
+  Parroquia_110905:
+    nombre_parroquia: Jadacaquiva
+    Municipio: Municipio_1109
+  Parroquia_110906:
+    nombre_parroquia: Moruy
+    Municipio: Municipio_1109
+  Parroquia_110907:
+    nombre_parroquia: Adaure
+    Municipio: Municipio_1109
+  Parroquia_110908:
+    nombre_parroquia: 'El Hato'
+    Municipio: Municipio_1109
+  Parroquia_110909:
+    nombre_parroquia: 'El Vínculo'
+    Municipio: Municipio_1109
+  Parroquia_111001:
+    nombre_parroquia: Churuguara
+    Municipio: Municipio_1110
+  Parroquia_111002:
+    nombre_parroquia: 'Agua Larga'
+    Municipio: Municipio_1110
+  Parroquia_111003:
+    nombre_parroquia: Paují
+    Municipio: Municipio_1110
+  Parroquia_111004:
+    nombre_parroquia: Independencia
+    Municipio: Municipio_1110
+  Parroquia_111005:
+    nombre_parroquia: Mapararí
+    Municipio: Municipio_1110
+  Parroquia_111101:
+    nombre_parroquia: Jacura
+    Municipio: Municipio_1111
+  Parroquia_111102:
+    nombre_parroquia: 'Agua Linda'
+    Municipio: Municipio_1111
+  Parroquia_111103:
+    nombre_parroquia: Araurima
+    Municipio: Municipio_1111
+  Parroquia_111201:
+    nombre_parroquia: 'Los Taques'
+    Municipio: Municipio_1112
+  Parroquia_111202:
+    nombre_parroquia: Judibana
+    Municipio: Municipio_1112
+  Parroquia_111301:
+    nombre_parroquia: 'Mene de Mauroa'
+    Municipio: Municipio_1113
+  Parroquia_111302:
+    nombre_parroquia: Casigua
+    Municipio: Municipio_1113
+  Parroquia_111303:
+    nombre_parroquia: 'San Félix'
+    Municipio: Municipio_1113
+  Parroquia_111401:
+    nombre_parroquia: 'San Antonio'
+    Municipio: Municipio_1114
+  Parroquia_111402:
+    nombre_parroquia: 'San Gabriel'
+    Municipio: Municipio_1114
+  Parroquia_111403:
+    nombre_parroquia: 'Santa Ana'
+    Municipio: Municipio_1114
+  Parroquia_111404:
+    nombre_parroquia: 'Guzmán Guillermo'
+    Municipio: Municipio_1114
+  Parroquia_111405:
+    nombre_parroquia: Mitare
+    Municipio: Municipio_1114
+  Parroquia_111406:
+    nombre_parroquia: 'Río Seco'
+    Municipio: Municipio_1114
+  Parroquia_111407:
+    nombre_parroquia: Sabaneta
+    Municipio: Municipio_1114
+  Parroquia_111501:
+    nombre_parroquia: Chichiriviche
+    Municipio: Municipio_1115
+  Parroquia_111502:
+    nombre_parroquia: 'Boca de Tocuyo'
+    Municipio: Municipio_1115
+  Parroquia_111503:
+    nombre_parroquia: 'Tocuyo de la Costa'
+    Municipio: Municipio_1115
+  Parroquia_111601:
+    nombre_parroquia: 'Capital Palmasola'
+    Municipio: Municipio_1116
+  Parroquia_111701:
+    nombre_parroquia: Cabure
+    Municipio: Municipio_1117
+  Parroquia_111702:
+    nombre_parroquia: Colina
+    Municipio: Municipio_1117
+  Parroquia_111703:
+    nombre_parroquia: Curimagua
+    Municipio: Municipio_1117
+  Parroquia_111801:
+    nombre_parroquia: Píritu
+    Municipio: Municipio_1118
+  Parroquia_111802:
+    nombre_parroquia: 'San José de la Costa'
+    Municipio: Municipio_1118
+  Parroquia_111901:
+    nombre_parroquia: 'Capital San Francisco'
+    Municipio: Municipio_1119
+  Parroquia_112001:
+    nombre_parroquia: Tucacas
+    Municipio: Municipio_1120
+  Parroquia_112002:
+    nombre_parroquia: 'Boca de Aroa'
+    Municipio: Municipio_1120
+  Parroquia_112101:
+    nombre_parroquia: Sucre
+    Municipio: Municipio_1121
+  Parroquia_112102:
+    nombre_parroquia: Pecaya
+    Municipio: Municipio_1121
+  Parroquia_112201:
+    nombre_parroquia: 'Capital Tocópero'
+    Municipio: Municipio_1122
+  Parroquia_112301:
+    nombre_parroquia: 'Santa Cruz de Bucaral'
+    Municipio: Municipio_1123
+  Parroquia_112302:
+    nombre_parroquia: 'El Charal'
+    Municipio: Municipio_1123
+  Parroquia_112303:
+    nombre_parroquia: 'Las Vegas del Tuy'
+    Municipio: Municipio_1123
+  Parroquia_112401:
+    nombre_parroquia: Urumaco
+    Municipio: Municipio_1124
+  Parroquia_112402:
+    nombre_parroquia: Bruzual
+    Municipio: Municipio_1124
+  Parroquia_112501:
+    nombre_parroquia: 'Puerto Cumarebo'
+    Municipio: Municipio_1125
+  Parroquia_112502:
+    nombre_parroquia: 'La Ciénaga'
+    Municipio: Municipio_1125
+  Parroquia_112503:
+    nombre_parroquia: 'La Soledad'
+    Municipio: Municipio_1125
+  Parroquia_112504:
+    nombre_parroquia: 'Pueblo Cumarebo'
+    Municipio: Municipio_1125
+  Parroquia_112505:
+    nombre_parroquia: Zazárida
+    Municipio: Municipio_1125
+  Parroquia_120101:
+    nombre_parroquia: Camaguán
+    Municipio: Municipio_1201
+  Parroquia_120102:
+    nombre_parroquia: 'Puerto Miranda'
+    Municipio: Municipio_1201
+  Parroquia_120103:
+    nombre_parroquia: Uverito
+    Municipio: Municipio_1201
+  Parroquia_120201:
+    nombre_parroquia: Chaguaramas
+    Municipio: Municipio_1202
+  Parroquia_120301:
+    nombre_parroquia: 'El Socorro'
+    Municipio: Municipio_1203
+  Parroquia_120401:
+    nombre_parroquia: 'Capital San Gerónimo de Guayabal'
+    Municipio: Municipio_1204
+  Parroquia_120402:
+    nombre_parroquia: Cazorla
+    Municipio: Municipio_1204
+  Parroquia_120501:
+    nombre_parroquia: 'Valle de La Pascua'
+    Municipio: Municipio_1205
+  Parroquia_120502:
+    nombre_parroquia: Espino
+    Municipio: Municipio_1205
+  Parroquia_120601:
+    nombre_parroquia: 'Las Mercedes'
+    Municipio: Municipio_1206
+  Parroquia_120602:
+    nombre_parroquia: Cabruta
+    Municipio: Municipio_1206
+  Parroquia_120603:
+    nombre_parroquia: 'Santa Rita de Manapire'
+    Municipio: Municipio_1206
+  Parroquia_120701:
+    nombre_parroquia: 'El Sombrero'
+    Municipio: Municipio_1207
+  Parroquia_120702:
+    nombre_parroquia: Sosa
+    Municipio: Municipio_1207
+  Parroquia_120801:
+    nombre_parroquia: Calabozo
+    Municipio: Municipio_1208
+  Parroquia_120802:
+    nombre_parroquia: 'El Calvario'
+    Municipio: Municipio_1208
+  Parroquia_120803:
+    nombre_parroquia: 'El Rastro'
+    Municipio: Municipio_1208
+  Parroquia_120804:
+    nombre_parroquia: Guardatinajas
+    Municipio: Municipio_1208
+  Parroquia_120901:
+    nombre_parroquia: 'Altagracia de Orituco'
+    Municipio: Municipio_1209
+  Parroquia_120902:
+    nombre_parroquia: Lezama
+    Municipio: Municipio_1209
+  Parroquia_120903:
+    nombre_parroquia: 'Libertad de Orituco'
+    Municipio: Municipio_1209
+  Parroquia_120904:
+    nombre_parroquia: 'Paso Real de Macaira'
+    Municipio: Municipio_1209
+  Parroquia_120905:
+    nombre_parroquia: 'San Francisco de Macaira'
+    Municipio: Municipio_1209
+  Parroquia_120906:
+    nombre_parroquia: 'San Rafael de Orituco'
+    Municipio: Municipio_1209
+  Parroquia_120907:
+    nombre_parroquia: Soublette
+    Municipio: Municipio_1209
+  Parroquia_121001:
+    nombre_parroquia: Ortiz
+    Municipio: Municipio_1210
+  Parroquia_121002:
+    nombre_parroquia: 'San Francisco de Tiznados'
+    Municipio: Municipio_1210
+  Parroquia_121003:
+    nombre_parroquia: 'San José de Tiznados'
+    Municipio: Municipio_1210
+  Parroquia_121004:
+    nombre_parroquia: 'San Lorenzo de Tiznados'
+    Municipio: Municipio_1210
+  Parroquia_121101:
+    nombre_parroquia: Tucupido
+    Municipio: Municipio_1211
+  Parroquia_121102:
+    nombre_parroquia: 'San Rafael de Laya'
+    Municipio: Municipio_1211
+  Parroquia_121201:
+    nombre_parroquia: 'San Juan de Los Morros'
+    Municipio: Municipio_1212
+  Parroquia_121202:
+    nombre_parroquia: Cantagallo
+    Municipio: Municipio_1212
+  Parroquia_121203:
+    nombre_parroquia: Parapara
+    Municipio: Municipio_1212
+  Parroquia_121301:
+    nombre_parroquia: 'San José de Guaribe'
+    Municipio: Municipio_1213
+  Parroquia_121401:
+    nombre_parroquia: 'Santa María de Ipire'
+    Municipio: Municipio_1214
+  Parroquia_121402:
+    nombre_parroquia: Altamira
+    Municipio: Municipio_1214
+  Parroquia_121501:
+    nombre_parroquia: Zaraza
+    Municipio: Municipio_1215
+  Parroquia_121502:
+    nombre_parroquia: 'San José de Unare'
+    Municipio: Municipio_1215
+  Parroquia_130101:
+    nombre_parroquia: 'Pío Tamayo'
+    Municipio: Municipio_1301
+  Parroquia_130102:
+    nombre_parroquia: 'Quebrada Honda de Guache'
+    Municipio: Municipio_1301
+  Parroquia_130103:
+    nombre_parroquia: Yacambú
+    Municipio: Municipio_1301
+  Parroquia_130201:
+    nombre_parroquia: Fréitez
+    Municipio: Municipio_1302
+  Parroquia_130202:
+    nombre_parroquia: 'José María Blanco'
+    Municipio: Municipio_1302
+  Parroquia_130301:
+    nombre_parroquia: Catedral
+    Municipio: Municipio_1303
+  Parroquia_130302:
+    nombre_parroquia: Concepción
+    Municipio: Municipio_1303
+  Parroquia_130303:
+    nombre_parroquia: 'El Cují'
+    Municipio: Municipio_1303
+  Parroquia_130304:
+    nombre_parroquia: 'Juan de Villegas'
+    Municipio: Municipio_1303
+  Parroquia_130305:
+    nombre_parroquia: 'Santa Rosa'
+    Municipio: Municipio_1303
+  Parroquia_130306:
+    nombre_parroquia: Tamaca
+    Municipio: Municipio_1303
+  Parroquia_130307:
+    nombre_parroquia: Unión
+    Municipio: Municipio_1303
+  Parroquia_130308:
+    nombre_parroquia: 'Aguedo Felipe Alvarado'
+    Municipio: Municipio_1303
+  Parroquia_130309:
+    nombre_parroquia: 'Buena Vista'
+    Municipio: Municipio_1303
+  Parroquia_130310:
+    nombre_parroquia: Juárez
+    Municipio: Municipio_1303
+  Parroquia_130401:
+    nombre_parroquia: 'Juan Bautista Rodríguez'
+    Municipio: Municipio_1304
+  Parroquia_130402:
+    nombre_parroquia: Cuara
+    Municipio: Municipio_1304
+  Parroquia_130403:
+    nombre_parroquia: 'Diego de Lozada'
+    Municipio: Municipio_1304
+  Parroquia_130404:
+    nombre_parroquia: 'Paraíso de San José'
+    Municipio: Municipio_1304
+  Parroquia_130405:
+    nombre_parroquia: 'San Miguel'
+    Municipio: Municipio_1304
+  Parroquia_130406:
+    nombre_parroquia: Tintorero
+    Municipio: Municipio_1304
+  Parroquia_130407:
+    nombre_parroquia: 'José Bernardo Dorante'
+    Municipio: Municipio_1304
+  Parroquia_130408:
+    nombre_parroquia: 'Coronel Mariano Peraza'
+    Municipio: Municipio_1304
+  Parroquia_130501:
+    nombre_parroquia: Bolívar
+    Municipio: Municipio_1305
+  Parroquia_130502:
+    nombre_parroquia: Anzoátegui
+    Municipio: Municipio_1305
+  Parroquia_130503:
+    nombre_parroquia: Guarico
+    Municipio: Municipio_1305
+  Parroquia_130504:
+    nombre_parroquia: 'Hilario Luna y Luna'
+    Municipio: Municipio_1305
+  Parroquia_130505:
+    nombre_parroquia: 'Humocaro Alto'
+    Municipio: Municipio_1305
+  Parroquia_130506:
+    nombre_parroquia: 'Humocaro Bajo'
+    Municipio: Municipio_1305
+  Parroquia_130507:
+    nombre_parroquia: 'La Candelaria'
+    Municipio: Municipio_1305
+  Parroquia_130508:
+    nombre_parroquia: Morán
+    Municipio: Municipio_1305
+  Parroquia_130601:
+    nombre_parroquia: Cabudare
+    Municipio: Municipio_1306
+  Parroquia_130602:
+    nombre_parroquia: 'José Gregorio Bastidas'
+    Municipio: Municipio_1306
+  Parroquia_130603:
+    nombre_parroquia: 'Agua Viva'
+    Municipio: Municipio_1306
+  Parroquia_130701:
+    nombre_parroquia: Sarare
+    Municipio: Municipio_1307
+  Parroquia_130702:
+    nombre_parroquia: Buría
+    Municipio: Municipio_1307
+  Parroquia_130703:
+    nombre_parroquia: 'Gustavo Vegas León'
+    Municipio: Municipio_1307
+  Parroquia_130801:
+    nombre_parroquia: 'Trinidad Samuel'
+    Municipio: Municipio_1308
+  Parroquia_130802:
+    nombre_parroquia: 'Antonio Díaz'
+    Municipio: Municipio_1308
+  Parroquia_130803:
+    nombre_parroquia: Camacaro
+    Municipio: Municipio_1308
+  Parroquia_130804:
+    nombre_parroquia: Castañeda
+    Municipio: Municipio_1308
+  Parroquia_130805:
+    nombre_parroquia: 'Cecilio Zubillaga'
+    Municipio: Municipio_1308
+  Parroquia_130806:
+    nombre_parroquia: Chiquinquirá
+    Municipio: Municipio_1308
+  Parroquia_130807:
+    nombre_parroquia: 'El Blanco'
+    Municipio: Municipio_1308
+  Parroquia_130808:
+    nombre_parroquia: 'Espinoza de los Monteros'
+    Municipio: Municipio_1308
+  Parroquia_130809:
+    nombre_parroquia: Lara
+    Municipio: Municipio_1308
+  Parroquia_130810:
+    nombre_parroquia: 'Las Mercedes'
+    Municipio: Municipio_1308
+  Parroquia_130811:
+    nombre_parroquia: 'Manuel Morillo'
+    Municipio: Municipio_1308
+  Parroquia_130812:
+    nombre_parroquia: 'Montaña Verde'
+    Municipio: Municipio_1308
+  Parroquia_130813:
+    nombre_parroquia: 'Montes de Oca'
+    Municipio: Municipio_1308
+  Parroquia_130814:
+    nombre_parroquia: Torres
+    Municipio: Municipio_1308
+  Parroquia_130815:
+    nombre_parroquia: 'Heriberto Arroyo'
+    Municipio: Municipio_1308
+  Parroquia_130816:
+    nombre_parroquia: 'Reyes Vargas'
+    Municipio: Municipio_1308
+  Parroquia_130817:
+    nombre_parroquia: Altagracia
+    Municipio: Municipio_1308
+  Parroquia_130901:
+    nombre_parroquia: Siquisique
+    Municipio: Municipio_1309
+  Parroquia_130902:
+    nombre_parroquia: Moroturo
+    Municipio: Municipio_1309
+  Parroquia_130903:
+    nombre_parroquia: 'San Miguel'
+    Municipio: Municipio_1309
+  Parroquia_130904:
+    nombre_parroquia: Xaguas
+    Municipio: Municipio_1309
+  Parroquia_140101:
+    nombre_parroquia: 'Presidente Betancourt'
+    Municipio: Municipio_1401
+  Parroquia_140102:
+    nombre_parroquia: 'Presidente Páez'
+    Municipio: Municipio_1401
+  Parroquia_140103:
+    nombre_parroquia: 'Presidente Rómulo Gallegos'
+    Municipio: Municipio_1401
+  Parroquia_140104:
+    nombre_parroquia: 'Gabriel Picón González'
+    Municipio: Municipio_1401
+  Parroquia_140105:
+    nombre_parroquia: 'Héctor Amable Mora'
+    Municipio: Municipio_1401
+  Parroquia_140106:
+    nombre_parroquia: 'José Nucete Sardi'
+    Municipio: Municipio_1401
+  Parroquia_140107:
+    nombre_parroquia: 'Pulido Méndez'
+    Municipio: Municipio_1401
+  Parroquia_140201:
+    nombre_parroquia: 'Capital Andrés Bello'
+    Municipio: Municipio_1402
+  Parroquia_140301:
+    nombre_parroquia: 'Capital Antonio Pinto Salinas'
+    Municipio: Municipio_1403
+  Parroquia_140302:
+    nombre_parroquia: 'Mesa Bolívar'
+    Municipio: Municipio_1403
+  Parroquia_140303:
+    nombre_parroquia: 'Mesa de Las Palmas'
+    Municipio: Municipio_1403
+  Parroquia_140401:
+    nombre_parroquia: 'Capital Aricagua'
+    Municipio: Municipio_1404
+  Parroquia_140402:
+    nombre_parroquia: 'San Antonio'
+    Municipio: Municipio_1404
+  Parroquia_140501:
+    nombre_parroquia: 'Capital Arzobispo Chacón'
+    Municipio: Municipio_1405
+  Parroquia_140502:
+    nombre_parroquia: Capurí
+    Municipio: Municipio_1405
+  Parroquia_140503:
+    nombre_parroquia: Chacantá
+    Municipio: Municipio_1405
+  Parroquia_140504:
+    nombre_parroquia: 'El Molino'
+    Municipio: Municipio_1405
+  Parroquia_140505:
+    nombre_parroquia: Guaimaral
+    Municipio: Municipio_1405
+  Parroquia_140506:
+    nombre_parroquia: Mucutuy
+    Municipio: Municipio_1405
+  Parroquia_140507:
+    nombre_parroquia: Mucuchachí
+    Municipio: Municipio_1405
+  Parroquia_140601:
+    nombre_parroquia: 'Fernández Peña'
+    Municipio: Municipio_1406
+  Parroquia_140602:
+    nombre_parroquia: Matriz
+    Municipio: Municipio_1406
+  Parroquia_140603:
+    nombre_parroquia: Montalbán
+    Municipio: Municipio_1406
+  Parroquia_140604:
+    nombre_parroquia: Acequias
+    Municipio: Municipio_1406
+  Parroquia_140605:
+    nombre_parroquia: Jají
+    Municipio: Municipio_1406
+  Parroquia_140606:
+    nombre_parroquia: 'La Mesa'
+    Municipio: Municipio_1406
+  Parroquia_140607:
+    nombre_parroquia: 'San José del Sur'
+    Municipio: Municipio_1406
+  Parroquia_140701:
+    nombre_parroquia: 'Capital Caracciolo Parra Olmedo'
+    Municipio: Municipio_1407
+  Parroquia_140702:
+    nombre_parroquia: 'Florencio Ramírez'
+    Municipio: Municipio_1407
+  Parroquia_140801:
+    nombre_parroquia: 'Capital Cardenal Quintero'
+    Municipio: Municipio_1408
+  Parroquia_140802:
+    nombre_parroquia: 'Las Piedras'
+    Municipio: Municipio_1408
+  Parroquia_140901:
+    nombre_parroquia: 'Capital Guaraque'
+    Municipio: Municipio_1409
+  Parroquia_140902:
+    nombre_parroquia: 'Mesa de Quintero'
+    Municipio: Municipio_1409
+  Parroquia_140903:
+    nombre_parroquia: 'Río Negro'
+    Municipio: Municipio_1409
+  Parroquia_141001:
+    nombre_parroquia: 'Capital Julio César Salas'
+    Municipio: Municipio_1410
+  Parroquia_141002:
+    nombre_parroquia: Palmira
+    Municipio: Municipio_1410
+  Parroquia_141101:
+    nombre_parroquia: 'Capital Justo Briceño'
+    Municipio: Municipio_1411
+  Parroquia_141102:
+    nombre_parroquia: 'San Cristóbal de Torondoy'
+    Municipio: Municipio_1411
+  Parroquia_141201:
+    nombre_parroquia: 'Antonio Spinetti Dini'
+    Municipio: Municipio_1412
+  Parroquia_141202:
+    nombre_parroquia: Arias
+    Municipio: Municipio_1412
+  Parroquia_141203:
+    nombre_parroquia: 'Caracciolo Parra Pérez'
+    Municipio: Municipio_1412
+  Parroquia_141204:
+    nombre_parroquia: 'Domingo Peña'
+    Municipio: Municipio_1412
+  Parroquia_141205:
+    nombre_parroquia: 'El Llano'
+    Municipio: Municipio_1412
+  Parroquia_141206:
+    nombre_parroquia: 'Gonzalo Picón Febres'
+    Municipio: Municipio_1412
+  Parroquia_141207:
+    nombre_parroquia: 'Jacinto Plaza'
+    Municipio: Municipio_1412
+  Parroquia_141208:
+    nombre_parroquia: 'Juan Rodríguez Suárez'
+    Municipio: Municipio_1412
+  Parroquia_141209:
+    nombre_parroquia: 'Lasso de la Vega'
+    Municipio: Municipio_1412
+  Parroquia_141210:
+    nombre_parroquia: 'Mariano Picón Salas'
+    Municipio: Municipio_1412
+  Parroquia_141211:
+    nombre_parroquia: Milla
+    Municipio: Municipio_1412
+  Parroquia_141212:
+    nombre_parroquia: 'Osuna Rodríguez'
+    Municipio: Municipio_1412
+  Parroquia_141213:
+    nombre_parroquia: Sagrario
+    Municipio: Municipio_1412
+  Parroquia_141214:
+    nombre_parroquia: 'El Morro'
+    Municipio: Municipio_1412
+  Parroquia_141215:
+    nombre_parroquia: 'Los Nevados'
+    Municipio: Municipio_1412
+  Parroquia_141301:
+    nombre_parroquia: 'Capital Miranda'
+    Municipio: Municipio_1413
+  Parroquia_141302:
+    nombre_parroquia: 'Andrés Eloy Blanco'
+    Municipio: Municipio_1413
+  Parroquia_141303:
+    nombre_parroquia: 'La Venta'
+    Municipio: Municipio_1413
+  Parroquia_141304:
+    nombre_parroquia: Piñango
+    Municipio: Municipio_1413
+  Parroquia_141401:
+    nombre_parroquia: 'Capital Obispo Ramos de Lora'
+    Municipio: Municipio_1414
+  Parroquia_141402:
+    nombre_parroquia: 'Eloy Paredes'
+    Municipio: Municipio_1414
+  Parroquia_141403:
+    nombre_parroquia: 'San Rafael de Alcázar'
+    Municipio: Municipio_1414
+  Parroquia_141501:
+    nombre_parroquia: 'Capital Padre Noguera'
+    Municipio: Municipio_1415
+  Parroquia_141601:
+    nombre_parroquia: 'Capital Pueblo Llano'
+    Municipio: Municipio_1416
+  Parroquia_141701:
+    nombre_parroquia: 'Capital Rangel'
+    Municipio: Municipio_1417
+  Parroquia_141702:
+    nombre_parroquia: Cacute
+    Municipio: Municipio_1417
+  Parroquia_141703:
+    nombre_parroquia: 'La Toma'
+    Municipio: Municipio_1417
+  Parroquia_141704:
+    nombre_parroquia: Mucurubá
+    Municipio: Municipio_1417
+  Parroquia_141705:
+    nombre_parroquia: 'San Rafael'
+    Municipio: Municipio_1417
+  Parroquia_141801:
+    nombre_parroquia: 'Capital Rivas Dávila'
+    Municipio: Municipio_1418
+  Parroquia_141802:
+    nombre_parroquia: 'Gerónimo Maldonado'
+    Municipio: Municipio_1418
+  Parroquia_141901:
+    nombre_parroquia: 'Capital Santos Marquina'
+    Municipio: Municipio_1419
+  Parroquia_142001:
+    nombre_parroquia: 'Capital Sucre'
+    Municipio: Municipio_1420
+  Parroquia_142002:
+    nombre_parroquia: Chiguará
+    Municipio: Municipio_1420
+  Parroquia_142003:
+    nombre_parroquia: Estánquez
+    Municipio: Municipio_1420
+  Parroquia_142004:
+    nombre_parroquia: 'La Trampa'
+    Municipio: Municipio_1420
+  Parroquia_142005:
+    nombre_parroquia: 'Pueblo Nuevo del Sur'
+    Municipio: Municipio_1420
+  Parroquia_142006:
+    nombre_parroquia: 'San Juan'
+    Municipio: Municipio_1420
+  Parroquia_142101:
+    nombre_parroquia: 'El Amparo'
+    Municipio: Municipio_1421
+  Parroquia_142102:
+    nombre_parroquia: 'El Llano'
+    Municipio: Municipio_1421
+  Parroquia_142103:
+    nombre_parroquia: 'San Francisco'
+    Municipio: Municipio_1421
+  Parroquia_142104:
+    nombre_parroquia: Tovar
+    Municipio: Municipio_1421
+  Parroquia_142201:
+    nombre_parroquia: 'Capital Tulio Febres Cordero'
+    Municipio: Municipio_1422
+  Parroquia_142202:
+    nombre_parroquia: Independencia
+    Municipio: Municipio_1422
+  Parroquia_142203:
+    nombre_parroquia: 'María de la Concepción Palacios Blanco'
+    Municipio: Municipio_1422
+  Parroquia_142204:
+    nombre_parroquia: 'Santa Apolonia'
+    Municipio: Municipio_1422
+  Parroquia_142301:
+    nombre_parroquia: 'Capital Zea'
+    Municipio: Municipio_1423
+  Parroquia_142302:
+    nombre_parroquia: 'Caño El Tigre'
+    Municipio: Municipio_1423
+  Parroquia_150101:
+    nombre_parroquia: Caucagua
+    Municipio: Municipio_1501
+  Parroquia_150102:
+    nombre_parroquia: Aragüita
+    Municipio: Municipio_1501
+  Parroquia_150103:
+    nombre_parroquia: 'Arévalo González'
+    Municipio: Municipio_1501
+  Parroquia_150104:
+    nombre_parroquia: Capaya
+    Municipio: Municipio_1501
+  Parroquia_150105:
+    nombre_parroquia: 'El Café'
+    Municipio: Municipio_1501
+  Parroquia_150106:
+    nombre_parroquia: Marizapa
+    Municipio: Municipio_1501
+  Parroquia_150107:
+    nombre_parroquia: Panaquire
+    Municipio: Municipio_1501
+  Parroquia_150108:
+    nombre_parroquia: Ribas
+    Municipio: Municipio_1501
+  Parroquia_150201:
+    nombre_parroquia: 'San José de Barlovento'
+    Municipio: Municipio_1502
+  Parroquia_150202:
+    nombre_parroquia: Cumbo
+    Municipio: Municipio_1502
+  Parroquia_150301:
+    nombre_parroquia: Baruta
+    Municipio: Municipio_1503
+  Parroquia_150302:
+    nombre_parroquia: 'El Cafetal'
+    Municipio: Municipio_1503
+  Parroquia_150303:
+    nombre_parroquia: 'Las Minas de Baruta'
+    Municipio: Municipio_1503
+  Parroquia_150401:
+    nombre_parroquia: Higuerote
+    Municipio: Municipio_1504
+  Parroquia_150402:
+    nombre_parroquia: Curiepe
+    Municipio: Municipio_1504
+  Parroquia_150403:
+    nombre_parroquia: Tacarigua
+    Municipio: Municipio_1504
+  Parroquia_150501:
+    nombre_parroquia: Mamporal
+    Municipio: Municipio_1505
+  Parroquia_150601:
+    nombre_parroquia: Carrizal
+    Municipio: Municipio_1506
+  Parroquia_150701:
+    nombre_parroquia: Chacao
+    Municipio: Municipio_1507
+  Parroquia_150801:
+    nombre_parroquia: Charallave
+    Municipio: Municipio_1508
+  Parroquia_150802:
+    nombre_parroquia: 'Las Brisas'
+    Municipio: Municipio_1508
+  Parroquia_150901:
+    nombre_parroquia: 'El Hatillo'
+    Municipio: Municipio_1509
+  Parroquia_151001:
+    nombre_parroquia: 'Los Teques'
+    Municipio: Municipio_1510
+  Parroquia_151002:
+    nombre_parroquia: 'Altagracia de La Montaña'
+    Municipio: Municipio_1510
+  Parroquia_151003:
+    nombre_parroquia: 'Cecilio Acosta'
+    Municipio: Municipio_1510
+  Parroquia_151004:
+    nombre_parroquia: 'El Jarillo'
+    Municipio: Municipio_1510
+  Parroquia_151005:
+    nombre_parroquia: Paracotos
+    Municipio: Municipio_1510
+  Parroquia_151006:
+    nombre_parroquia: 'San Pedro'
+    Municipio: Municipio_1510
+  Parroquia_151007:
+    nombre_parroquia: Tácata
+    Municipio: Municipio_1510
+  Parroquia_151101:
+    nombre_parroquia: 'Santa Teresa del Tuy'
+    Municipio: Municipio_1511
+  Parroquia_151102:
+    nombre_parroquia: 'El Cartanal'
+    Municipio: Municipio_1511
+  Parroquia_151201:
+    nombre_parroquia: 'Ocumare del Tuy'
+    Municipio: Municipio_1512
+  Parroquia_151202:
+    nombre_parroquia: 'La Democracia'
+    Municipio: Municipio_1512
+  Parroquia_151203:
+    nombre_parroquia: 'Santa Bárbara'
+    Municipio: Municipio_1512
+  Parroquia_151301:
+    nombre_parroquia: 'San Antonio de Los Altos'
+    Municipio: Municipio_1513
+  Parroquia_151401:
+    nombre_parroquia: 'Río Chico'
+    Municipio: Municipio_1514
+  Parroquia_151402:
+    nombre_parroquia: 'El Guapo'
+    Municipio: Municipio_1514
+  Parroquia_151403:
+    nombre_parroquia: 'Tacarigua de La Laguna'
+    Municipio: Municipio_1514
+  Parroquia_151404:
+    nombre_parroquia: Paparo
+    Municipio: Municipio_1514
+  Parroquia_151405:
+    nombre_parroquia: 'San Fernando del Guapo'
+    Municipio: Municipio_1514
+  Parroquia_151501:
+    nombre_parroquia: 'Santa Lucía'
+    Municipio: Municipio_1515
+  Parroquia_151601:
+    nombre_parroquia: Cúpira
+    Municipio: Municipio_1516
+  Parroquia_151602:
+    nombre_parroquia: Machurucuto
+    Municipio: Municipio_1516
+  Parroquia_151701:
+    nombre_parroquia: Guarenas
+    Municipio: Municipio_1517
+  Parroquia_151801:
+    nombre_parroquia: 'San Francisco de Yare'
+    Municipio: Municipio_1518
+  Parroquia_151802:
+    nombre_parroquia: 'San Antonio de Yare'
+    Municipio: Municipio_1518
+  Parroquia_151901:
+    nombre_parroquia: Petare
+    Municipio: Municipio_1519
+  Parroquia_151902:
+    nombre_parroquia: Caucagüita
+    Municipio: Municipio_1519
+  Parroquia_151903:
+    nombre_parroquia: 'Fila de Mariches'
+    Municipio: Municipio_1519
+  Parroquia_151904:
+    nombre_parroquia: 'La Dolorita'
+    Municipio: Municipio_1519
+  Parroquia_151905:
+    nombre_parroquia: 'Leoncio Martínez'
+    Municipio: Municipio_1519
+  Parroquia_152001:
+    nombre_parroquia: Cúa
+    Municipio: Municipio_1520
+  Parroquia_152002:
+    nombre_parroquia: 'Nueva Cúa'
+    Municipio: Municipio_1520
+  Parroquia_152101:
+    nombre_parroquia: Guatire
+    Municipio: Municipio_1521
+  Parroquia_152102:
+    nombre_parroquia: Bolívar
+    Municipio: Municipio_1521
+  Parroquia_160101:
+    nombre_parroquia: 'Capital Acosta'
+    Municipio: Municipio_1601
+  Parroquia_160102:
+    nombre_parroquia: 'San Francisco'
+    Municipio: Municipio_1601
+  Parroquia_160201:
+    nombre_parroquia: 'Capital Aguasay'
+    Municipio: Municipio_1602
+  Parroquia_160301:
+    nombre_parroquia: 'Capital Bolívar'
+    Municipio: Municipio_1603
+  Parroquia_160401:
+    nombre_parroquia: 'Capital Caripe'
+    Municipio: Municipio_1604
+  Parroquia_160402:
+    nombre_parroquia: 'El Guácharo'
+    Municipio: Municipio_1604
+  Parroquia_160403:
+    nombre_parroquia: 'La Guanota'
+    Municipio: Municipio_1604
+  Parroquia_160404:
+    nombre_parroquia: 'Sabana de Piedra'
+    Municipio: Municipio_1604
+  Parroquia_160405:
+    nombre_parroquia: 'San Agustín'
+    Municipio: Municipio_1604
+  Parroquia_160406:
+    nombre_parroquia: Teresén
+    Municipio: Municipio_1604
+  Parroquia_160501:
+    nombre_parroquia: 'Capital Cedeño'
+    Municipio: Municipio_1605
+  Parroquia_160502:
+    nombre_parroquia: Areo
+    Municipio: Municipio_1605
+  Parroquia_160503:
+    nombre_parroquia: 'San Félix'
+    Municipio: Municipio_1605
+  Parroquia_160504:
+    nombre_parroquia: 'Viento Fresco'
+    Municipio: Municipio_1605
+  Parroquia_160601:
+    nombre_parroquia: 'Capital Ezequiel Zamora'
+    Municipio: Municipio_1606
+  Parroquia_160602:
+    nombre_parroquia: 'El Tejero'
+    Municipio: Municipio_1606
+  Parroquia_160701:
+    nombre_parroquia: 'Capital Libertador'
+    Municipio: Municipio_1607
+  Parroquia_160702:
+    nombre_parroquia: Chaguaramas
+    Municipio: Municipio_1607
+  Parroquia_160703:
+    nombre_parroquia: 'Las Alhuacas'
+    Municipio: Municipio_1607
+  Parroquia_160704:
+    nombre_parroquia: Tabasca
+    Municipio: Municipio_1607
+  Parroquia_160801:
+    nombre_parroquia: 'Capital Maturín'
+    Municipio: Municipio_1608
+  Parroquia_160802:
+    nombre_parroquia: 'Alto de los Godos'
+    Municipio: Municipio_1608
+  Parroquia_160803:
+    nombre_parroquia: Boquerón
+    Municipio: Municipio_1608
+  Parroquia_160804:
+    nombre_parroquia: 'Las Cocuizas'
+    Municipio: Municipio_1608
+  Parroquia_160805:
+    nombre_parroquia: 'San Simón'
+    Municipio: Municipio_1608
+  Parroquia_160806:
+    nombre_parroquia: 'Santa Cruz'
+    Municipio: Municipio_1608
+  Parroquia_160807:
+    nombre_parroquia: 'El Corozo'
+    Municipio: Municipio_1608
+  Parroquia_160808:
+    nombre_parroquia: 'El Furrial'
+    Municipio: Municipio_1608
+  Parroquia_160809:
+    nombre_parroquia: Jusepín
+    Municipio: Municipio_1608
+  Parroquia_160810:
+    nombre_parroquia: 'La Pica'
+    Municipio: Municipio_1608
+  Parroquia_160811:
+    nombre_parroquia: 'San Vicente'
+    Municipio: Municipio_1608
+  Parroquia_160901:
+    nombre_parroquia: 'Capital Piar'
+    Municipio: Municipio_1609
+  Parroquia_160902:
+    nombre_parroquia: Aparicio
+    Municipio: Municipio_1609
+  Parroquia_160903:
+    nombre_parroquia: Chaguaramal
+    Municipio: Municipio_1609
+  Parroquia_160904:
+    nombre_parroquia: 'El Pinto'
+    Municipio: Municipio_1609
+  Parroquia_160905:
+    nombre_parroquia: Guanaguana
+    Municipio: Municipio_1609
+  Parroquia_160906:
+    nombre_parroquia: 'La Toscana'
+    Municipio: Municipio_1609
+  Parroquia_160907:
+    nombre_parroquia: Taguaya
+    Municipio: Municipio_1609
+  Parroquia_161001:
+    nombre_parroquia: 'Capital Punceres'
+    Municipio: Municipio_1610
+  Parroquia_161002:
+    nombre_parroquia: Cachipo
+    Municipio: Municipio_1610
+  Parroquia_161101:
+    nombre_parroquia: 'Capital Santa Bárbara'
+    Municipio: Municipio_1611
+  Parroquia_161201:
+    nombre_parroquia: 'Capital Sotillo'
+    Municipio: Municipio_1612
+  Parroquia_161202:
+    nombre_parroquia: 'Los Barrancos de Fajardo'
+    Municipio: Municipio_1612
+  Parroquia_161301:
+    nombre_parroquia: 'Capital Uracoa'
+    Municipio: Municipio_1613
+  Parroquia_170101:
+    nombre_parroquia: 'Capital Antolín del Campo'
+    Municipio: Municipio_1701
+  Parroquia_170201:
+    nombre_parroquia: 'Capital Arismendi'
+    Municipio: Municipio_1702
+  Parroquia_170301:
+    nombre_parroquia: 'Capital Díaz'
+    Municipio: Municipio_1703
+  Parroquia_170302:
+    nombre_parroquia: Zabala
+    Municipio: Municipio_1703
+  Parroquia_170401:
+    nombre_parroquia: 'Capital García'
+    Municipio: Municipio_1704
+  Parroquia_170402:
+    nombre_parroquia: 'Francisco Fajardo'
+    Municipio: Municipio_1704
+  Parroquia_170501:
+    nombre_parroquia: 'Capital Gómez'
+    Municipio: Municipio_1705
+  Parroquia_170502:
+    nombre_parroquia: Bolívar
+    Municipio: Municipio_1705
+  Parroquia_170503:
+    nombre_parroquia: Guevara
+    Municipio: Municipio_1705
+  Parroquia_170504:
+    nombre_parroquia: Matasiete
+    Municipio: Municipio_1705
+  Parroquia_170505:
+    nombre_parroquia: Sucre
+    Municipio: Municipio_1705
+  Parroquia_170601:
+    nombre_parroquia: 'Capital Maneiro'
+    Municipio: Municipio_1706
+  Parroquia_170602:
+    nombre_parroquia: Aguirre
+    Municipio: Municipio_1706
+  Parroquia_170701:
+    nombre_parroquia: 'Capital Marcano'
+    Municipio: Municipio_1707
+  Parroquia_170702:
+    nombre_parroquia: Adrián
+    Municipio: Municipio_1707
+  Parroquia_170801:
+    nombre_parroquia: 'Capital Mariño'
+    Municipio: Municipio_1708
+  Parroquia_170901:
+    nombre_parroquia: 'Capital Península de Macanao'
+    Municipio: Municipio_1709
+  Parroquia_170902:
+    nombre_parroquia: 'San Francisco'
+    Municipio: Municipio_1709
+  Parroquia_171001:
+    nombre_parroquia: 'Capital Tubores'
+    Municipio: Municipio_1710
+  Parroquia_171002:
+    nombre_parroquia: 'Los Barales'
+    Municipio: Municipio_1710
+  Parroquia_171101:
+    nombre_parroquia: 'Capital Villalba'
+    Municipio: Municipio_1711
+  Parroquia_171102:
+    nombre_parroquia: 'Vicente Fuentes'
+    Municipio: Municipio_1711
+  Parroquia_180101:
+    nombre_parroquia: 'Capital Agua Blanca'
+    Municipio: Municipio_1801
+  Parroquia_180201:
+    nombre_parroquia: 'Capital Araure'
+    Municipio: Municipio_1802
+  Parroquia_180202:
+    nombre_parroquia: 'Río Acarigua'
+    Municipio: Municipio_1802
+  Parroquia_180301:
+    nombre_parroquia: 'Capital Esteller'
+    Municipio: Municipio_1803
+  Parroquia_180302:
+    nombre_parroquia: Uveral
+    Municipio: Municipio_1803
+  Parroquia_180401:
+    nombre_parroquia: 'Capital Guanare'
+    Municipio: Municipio_1804
+  Parroquia_180402:
+    nombre_parroquia: Córdoba
+    Municipio: Municipio_1804
+  Parroquia_180403:
+    nombre_parroquia: 'San José de la Montaña'
+    Municipio: Municipio_1804
+  Parroquia_180404:
+    nombre_parroquia: 'San Juan de Guanaguanare'
+    Municipio: Municipio_1804
+  Parroquia_180405:
+    nombre_parroquia: 'Virgen de la Coromoto'
+    Municipio: Municipio_1804
+  Parroquia_180501:
+    nombre_parroquia: 'Capital Guanarito'
+    Municipio: Municipio_1805
+  Parroquia_180502:
+    nombre_parroquia: 'Trinidad de la Capilla'
+    Municipio: Municipio_1805
+  Parroquia_180503:
+    nombre_parroquia: 'Divina Pastora'
+    Municipio: Municipio_1805
+  Parroquia_180601:
+    nombre_parroquia: 'Capital Monseñor José Vicente de Unda'
+    Municipio: Municipio_1806
+  Parroquia_180602:
+    nombre_parroquia: 'Peña Blanca'
+    Municipio: Municipio_1806
+  Parroquia_180701:
+    nombre_parroquia: 'Capital Ospino'
+    Municipio: Municipio_1807
+  Parroquia_180702:
+    nombre_parroquia: Aparición
+    Municipio: Municipio_1807
+  Parroquia_180703:
+    nombre_parroquia: 'La Estación'
+    Municipio: Municipio_1807
+  Parroquia_180801:
+    nombre_parroquia: 'Capital Páez'
+    Municipio: Municipio_1808
+  Parroquia_180802:
+    nombre_parroquia: Payara
+    Municipio: Municipio_1808
+  Parroquia_180803:
+    nombre_parroquia: Pimpinela
+    Municipio: Municipio_1808
+  Parroquia_180804:
+    nombre_parroquia: 'Ramón Peraza'
+    Municipio: Municipio_1808
+  Parroquia_180901:
+    nombre_parroquia: 'Capital Papelón'
+    Municipio: Municipio_1809
+  Parroquia_180902:
+    nombre_parroquia: 'Caño Delgadito'
+    Municipio: Municipio_1809
+  Parroquia_181001:
+    nombre_parroquia: 'Capital San Genaro de Boconoito'
+    Municipio: Municipio_1810
+  Parroquia_181002:
+    nombre_parroquia: 'Antolín Tovar'
+    Municipio: Municipio_1810
+  Parroquia_181101:
+    nombre_parroquia: 'Capital San Rafael de Onoto'
+    Municipio: Municipio_1811
+  Parroquia_181102:
+    nombre_parroquia: 'Santa Fe'
+    Municipio: Municipio_1811
+  Parroquia_181103:
+    nombre_parroquia: 'Thermo Morles'
+    Municipio: Municipio_1811
+  Parroquia_181201:
+    nombre_parroquia: 'Capital Santa Rosalía'
+    Municipio: Municipio_1812
+  Parroquia_181202:
+    nombre_parroquia: Florida
+    Municipio: Municipio_1812
+  Parroquia_181301:
+    nombre_parroquia: 'Capital Sucre'
+    Municipio: Municipio_1813
+  Parroquia_181302:
+    nombre_parroquia: Concepción
+    Municipio: Municipio_1813
+  Parroquia_181303:
+    nombre_parroquia: 'San Rafael de Palo Alzado'
+    Municipio: Municipio_1813
+  Parroquia_181304:
+    nombre_parroquia: 'Uvencio Antonio Velásquez'
+    Municipio: Municipio_1813
+  Parroquia_181305:
+    nombre_parroquia: 'San José de Saguaz'
+    Municipio: Municipio_1813
+  Parroquia_181306:
+    nombre_parroquia: 'Villa Rosa'
+    Municipio: Municipio_1813
+  Parroquia_181401:
+    nombre_parroquia: 'Capital Turén'
+    Municipio: Municipio_1814
+  Parroquia_181402:
+    nombre_parroquia: Canelones
+    Municipio: Municipio_1814
+  Parroquia_181403:
+    nombre_parroquia: 'Santa Cruz'
+    Municipio: Municipio_1814
+  Parroquia_181404:
+    nombre_parroquia: 'San Isidro Labrador'
+    Municipio: Municipio_1814
+  Parroquia_190101:
+    nombre_parroquia: Mariño
+    Municipio: Municipio_1901
+  Parroquia_190102:
+    nombre_parroquia: 'Rómulo Gallegos'
+    Municipio: Municipio_1901
+  Parroquia_190201:
+    nombre_parroquia: 'San José de Aerocuar'
+    Municipio: Municipio_1902
+  Parroquia_190202:
+    nombre_parroquia: 'Tavera Acosta'
+    Municipio: Municipio_1902
+  Parroquia_190301:
+    nombre_parroquia: 'Río Caribe'
+    Municipio: Municipio_1903
+  Parroquia_190302:
+    nombre_parroquia: 'Antonio José de Sucre'
+    Municipio: Municipio_1903
+  Parroquia_190303:
+    nombre_parroquia: 'El Morro de Puerto Santo'
+    Municipio: Municipio_1903
+  Parroquia_190304:
+    nombre_parroquia: 'Puerto Santo'
+    Municipio: Municipio_1903
+  Parroquia_190305:
+    nombre_parroquia: 'San Juan de Las Galdonas'
+    Municipio: Municipio_1903
+  Parroquia_190401:
+    nombre_parroquia: 'El Pilar'
+    Municipio: Municipio_1904
+  Parroquia_190402:
+    nombre_parroquia: 'El Rincón'
+    Municipio: Municipio_1904
+  Parroquia_190403:
+    nombre_parroquia: 'General Francisco Antonio Vásquez'
+    Municipio: Municipio_1904
+  Parroquia_190404:
+    nombre_parroquia: Guaraúnos
+    Municipio: Municipio_1904
+  Parroquia_190405:
+    nombre_parroquia: Tunapuicito
+    Municipio: Municipio_1904
+  Parroquia_190406:
+    nombre_parroquia: Unión
+    Municipio: Municipio_1904
+  Parroquia_190501:
+    nombre_parroquia: Bolívar
+    Municipio: Municipio_1905
+  Parroquia_190502:
+    nombre_parroquia: Macarapana
+    Municipio: Municipio_1905
+  Parroquia_190503:
+    nombre_parroquia: 'Santa Catalina'
+    Municipio: Municipio_1905
+  Parroquia_190504:
+    nombre_parroquia: 'Santa Rosa'
+    Municipio: Municipio_1905
+  Parroquia_190505:
+    nombre_parroquia: 'Santa Teresa'
+    Municipio: Municipio_1905
+  Parroquia_190601:
+    nombre_parroquia: 'Capital Bolívar'
+    Municipio: Municipio_1906
+  Parroquia_190701:
+    nombre_parroquia: Yaguaraparo
+    Municipio: Municipio_1907
+  Parroquia_190702:
+    nombre_parroquia: 'El Paujil'
+    Municipio: Municipio_1907
+  Parroquia_190703:
+    nombre_parroquia: Libertad
+    Municipio: Municipio_1907
+  Parroquia_190801:
+    nombre_parroquia: Araya
+    Municipio: Municipio_1908
+  Parroquia_190802:
+    nombre_parroquia: Chacopata
+    Municipio: Municipio_1908
+  Parroquia_190803:
+    nombre_parroquia: Manicuare
+    Municipio: Municipio_1908
+  Parroquia_190901:
+    nombre_parroquia: Tunapuy
+    Municipio: Municipio_1909
+  Parroquia_190902:
+    nombre_parroquia: 'Campo Elías'
+    Municipio: Municipio_1909
+  Parroquia_191001:
+    nombre_parroquia: Irapa
+    Municipio: Municipio_1910
+  Parroquia_191002:
+    nombre_parroquia: 'Campo Claro'
+    Municipio: Municipio_1910
+  Parroquia_191003:
+    nombre_parroquia: Marabal
+    Municipio: Municipio_1910
+  Parroquia_191004:
+    nombre_parroquia: 'San Antonio de Irapa'
+    Municipio: Municipio_1910
+  Parroquia_191005:
+    nombre_parroquia: Soro
+    Municipio: Municipio_1910
+  Parroquia_191101:
+    nombre_parroquia: 'Capital Mejía'
+    Municipio: Municipio_1911
+  Parroquia_191201:
+    nombre_parroquia: Cumanacoa
+    Municipio: Municipio_1912
+  Parroquia_191202:
+    nombre_parroquia: Arenas
+    Municipio: Municipio_1912
+  Parroquia_191203:
+    nombre_parroquia: Aricagua
+    Municipio: Municipio_1912
+  Parroquia_191204:
+    nombre_parroquia: Cocollar
+    Municipio: Municipio_1912
+  Parroquia_191205:
+    nombre_parroquia: 'San Fernando'
+    Municipio: Municipio_1912
+  Parroquia_191206:
+    nombre_parroquia: 'San Lorenzo'
+    Municipio: Municipio_1912
+  Parroquia_191301:
+    nombre_parroquia: Cariaco
+    Municipio: Municipio_1913
+  Parroquia_191302:
+    nombre_parroquia: Catuaro
+    Municipio: Municipio_1913
+  Parroquia_191303:
+    nombre_parroquia: Rendón
+    Municipio: Municipio_1913
+  Parroquia_191304:
+    nombre_parroquia: 'Santa Cruz'
+    Municipio: Municipio_1913
+  Parroquia_191305:
+    nombre_parroquia: 'Santa María'
+    Municipio: Municipio_1913
+  Parroquia_191401:
+    nombre_parroquia: Altagracia
+    Municipio: Municipio_1914
+  Parroquia_191402:
+    nombre_parroquia: Ayacucho
+    Municipio: Municipio_1914
+  Parroquia_191403:
+    nombre_parroquia: 'Santa Inés'
+    Municipio: Municipio_1914
+  Parroquia_191404:
+    nombre_parroquia: 'Valentín Valiente'
+    Municipio: Municipio_1914
+  Parroquia_191405:
+    nombre_parroquia: 'San Juan'
+    Municipio: Municipio_1914
+  Parroquia_191406:
+    nombre_parroquia: 'Raúl Leoni'
+    Municipio: Municipio_1914
+  Parroquia_191407:
+    nombre_parroquia: 'Santa Fe'
+    Municipio: Municipio_1914
+  Parroquia_191501:
+    nombre_parroquia: Güiria
+    Municipio: Municipio_1915
+  Parroquia_191502:
+    nombre_parroquia: Bideau
+    Municipio: Municipio_1915
+  Parroquia_191503:
+    nombre_parroquia: 'Cristóbal Colón'
+    Municipio: Municipio_1915
+  Parroquia_191504:
+    nombre_parroquia: 'Punta de Piedras'
+    Municipio: Municipio_1915
+  Parroquia_200101:
+    nombre_parroquia: 'Capital Andrés Bello'
+    Municipio: Municipio_2001
+  Parroquia_200201:
+    nombre_parroquia: 'Capital Antonio Rómulo Costa'
+    Municipio: Municipio_2002
+  Parroquia_200301:
+    nombre_parroquia: 'Capital Ayacucho'
+    Municipio: Municipio_2003
+  Parroquia_200302:
+    nombre_parroquia: 'Rivas Berti'
+    Municipio: Municipio_2003
+  Parroquia_200303:
+    nombre_parroquia: 'San Pedro del Río'
+    Municipio: Municipio_2003
+  Parroquia_200401:
+    nombre_parroquia: 'Capital Bolívar'
+    Municipio: Municipio_2004
+  Parroquia_200402:
+    nombre_parroquia: Palotal
+    Municipio: Municipio_2004
+  Parroquia_200403:
+    nombre_parroquia: 'Juan Vicente Gómez'
+    Municipio: Municipio_2004
+  Parroquia_200404:
+    nombre_parroquia: 'Isaías Medina Angarita'
+    Municipio: Municipio_2004
+  Parroquia_200501:
+    nombre_parroquia: 'Capital Cárdenas'
+    Municipio: Municipio_2005
+  Parroquia_200502:
+    nombre_parroquia: 'Amenodoro Rangel Lamús'
+    Municipio: Municipio_2005
+  Parroquia_200503:
+    nombre_parroquia: 'La Florida'
+    Municipio: Municipio_2005
+  Parroquia_200601:
+    nombre_parroquia: 'Capital Córdoba'
+    Municipio: Municipio_2006
+  Parroquia_200701:
+    nombre_parroquia: 'Capital Fernández Feo'
+    Municipio: Municipio_2007
+  Parroquia_200702:
+    nombre_parroquia: 'Alberto Adriani'
+    Municipio: Municipio_2007
+  Parroquia_200703:
+    nombre_parroquia: 'Santo Domingo'
+    Municipio: Municipio_2007
+  Parroquia_200801:
+    nombre_parroquia: 'Capital Francisco de Miranda'
+    Municipio: Municipio_2008
+  Parroquia_200901:
+    nombre_parroquia: 'Capital García de Hevia'
+    Municipio: Municipio_2009
+  Parroquia_200902:
+    nombre_parroquia: 'Boca de Grita'
+    Municipio: Municipio_2009
+  Parroquia_200903:
+    nombre_parroquia: 'José Antonio Páez'
+    Municipio: Municipio_2009
+  Parroquia_201001:
+    nombre_parroquia: 'Capital Guásimos'
+    Municipio: Municipio_2010
+  Parroquia_201101:
+    nombre_parroquia: 'Capital Independencia'
+    Municipio: Municipio_2011
+  Parroquia_201102:
+    nombre_parroquia: 'Juan Germán Roscio'
+    Municipio: Municipio_2011
+  Parroquia_201103:
+    nombre_parroquia: 'Román Cárdenas'
+    Municipio: Municipio_2011
+  Parroquia_201201:
+    nombre_parroquia: 'Capital Jáuregui'
+    Municipio: Municipio_2012
+  Parroquia_201202:
+    nombre_parroquia: 'Emilio Constantino Guerrero'
+    Municipio: Municipio_2012
+  Parroquia_201203:
+    nombre_parroquia: 'Monseñor Miguel Antonio Salas'
+    Municipio: Municipio_2012
+  Parroquia_201301:
+    nombre_parroquia: 'Capital José María Vargas'
+    Municipio: Municipio_2013
+  Parroquia_201401:
+    nombre_parroquia: 'Capital Junín'
+    Municipio: Municipio_2014
+  Parroquia_201402:
+    nombre_parroquia: 'La Petrólea'
+    Municipio: Municipio_2014
+  Parroquia_201403:
+    nombre_parroquia: Quinimarí
+    Municipio: Municipio_2014
+  Parroquia_201404:
+    nombre_parroquia: Bramón
+    Municipio: Municipio_2014
+  Parroquia_201501:
+    nombre_parroquia: 'Capital Libertad'
+    Municipio: Municipio_2015
+  Parroquia_201502:
+    nombre_parroquia: 'Cipriano Castro'
+    Municipio: Municipio_2015
+  Parroquia_201503:
+    nombre_parroquia: 'Manuel Felipe Rugeles'
+    Municipio: Municipio_2015
+  Parroquia_201601:
+    nombre_parroquia: 'Capital Libertador'
+    Municipio: Municipio_2016
+  Parroquia_201602:
+    nombre_parroquia: 'Emeterio Ochoa'
+    Municipio: Municipio_2016
+  Parroquia_201603:
+    nombre_parroquia: Doradas
+    Municipio: Municipio_2016
+  Parroquia_201604:
+    nombre_parroquia: 'San Joaquín de Navay'
+    Municipio: Municipio_2016
+  Parroquia_201701:
+    nombre_parroquia: 'Capital Lobatera'
+    Municipio: Municipio_2017
+  Parroquia_201702:
+    nombre_parroquia: Constitución
+    Municipio: Municipio_2017
+  Parroquia_201801:
+    nombre_parroquia: 'Capital Michelena'
+    Municipio: Municipio_2018
+  Parroquia_201901:
+    nombre_parroquia: 'Capital Panamericano'
+    Municipio: Municipio_2019
+  Parroquia_201902:
+    nombre_parroquia: 'La Palmita'
+    Municipio: Municipio_2019
+  Parroquia_202001:
+    nombre_parroquia: 'Capital Pedro María Ureña'
+    Municipio: Municipio_2020
+  Parroquia_202002:
+    nombre_parroquia: 'Nueva Arcadia'
+    Municipio: Municipio_2020
+  Parroquia_202101:
+    nombre_parroquia: 'Capital Rafael Urdaneta'
+    Municipio: Municipio_2021
+  Parroquia_202201:
+    nombre_parroquia: 'Capital Samuel Darío Maldonado'
+    Municipio: Municipio_2022
+  Parroquia_202202:
+    nombre_parroquia: Boconó
+    Municipio: Municipio_2022
+  Parroquia_202203:
+    nombre_parroquia: Hernández
+    Municipio: Municipio_2022
+  Parroquia_202301:
+    nombre_parroquia: 'La Concordia'
+    Municipio: Municipio_2023
+  Parroquia_202302:
+    nombre_parroquia: 'Pedro María Morantes'
+    Municipio: Municipio_2023
+  Parroquia_202303:
+    nombre_parroquia: 'San Juan Bautista'
+    Municipio: Municipio_2023
+  Parroquia_202304:
+    nombre_parroquia: 'San Sebastián'
+    Municipio: Municipio_2023
+  Parroquia_202305:
+    nombre_parroquia: 'Dr. Francisco Romero Lobo'
+    Municipio: Municipio_2023
+  Parroquia_202401:
+    nombre_parroquia: 'Capital Seboruco'
+    Municipio: Municipio_2024
+  Parroquia_202501:
+    nombre_parroquia: 'Capital Simón Rodríguez'
+    Municipio: Municipio_2025
+  Parroquia_202601:
+    nombre_parroquia: 'Capital Sucre'
+    Municipio: Municipio_2026
+  Parroquia_202602:
+    nombre_parroquia: 'Eleazar López Contreras'
+    Municipio: Municipio_2026
+  Parroquia_202603:
+    nombre_parroquia: 'San Pablo'
+    Municipio: Municipio_2026
+  Parroquia_202701:
+    nombre_parroquia: 'Capital Torbes'
+    Municipio: Municipio_2027
+  Parroquia_202801:
+    nombre_parroquia: 'Capital Uribante'
+    Municipio: Municipio_2028
+  Parroquia_202802:
+    nombre_parroquia: Cárdenas
+    Municipio: Municipio_2028
+  Parroquia_202803:
+    nombre_parroquia: 'Juan Pablo Peñaloza'
+    Municipio: Municipio_2028
+  Parroquia_202804:
+    nombre_parroquia: Potosí
+    Municipio: Municipio_2028
+  Parroquia_202901:
+    nombre_parroquia: 'Capital San Judas Tadeo'
+    Municipio: Municipio_2029
+  Parroquia_210101:
+    nombre_parroquia: 'Santa Isabel'
+    Municipio: Municipio_2101
+  Parroquia_210102:
+    nombre_parroquia: Araguaney
+    Municipio: Municipio_2101
+  Parroquia_210103:
+    nombre_parroquia: 'El Jagüito'
+    Municipio: Municipio_2101
+  Parroquia_210104:
+    nombre_parroquia: 'La Esperanza'
+    Municipio: Municipio_2101
+  Parroquia_210201:
+    nombre_parroquia: Boconó
+    Municipio: Municipio_2102
+  Parroquia_210202:
+    nombre_parroquia: 'El Carmen'
+    Municipio: Municipio_2102
+  Parroquia_210203:
+    nombre_parroquia: Mosquey
+    Municipio: Municipio_2102
+  Parroquia_210204:
+    nombre_parroquia: Ayacucho
+    Municipio: Municipio_2102
+  Parroquia_210205:
+    nombre_parroquia: Burbusay
+    Municipio: Municipio_2102
+  Parroquia_210206:
+    nombre_parroquia: 'General Rivas'
+    Municipio: Municipio_2102
+  Parroquia_210207:
+    nombre_parroquia: Guaramacal
+    Municipio: Municipio_2102
+  Parroquia_210208:
+    nombre_parroquia: 'Vega de Guaramacal'
+    Municipio: Municipio_2102
+  Parroquia_210209:
+    nombre_parroquia: 'Monseñor Jáuregui'
+    Municipio: Municipio_2102
+  Parroquia_210210:
+    nombre_parroquia: 'Rafael Rangel'
+    Municipio: Municipio_2102
+  Parroquia_210211:
+    nombre_parroquia: 'San Miguel'
+    Municipio: Municipio_2102
+  Parroquia_210212:
+    nombre_parroquia: 'San José'
+    Municipio: Municipio_2102
+  Parroquia_210301:
+    nombre_parroquia: 'Sabana Grande'
+    Municipio: Municipio_2103
+  Parroquia_210302:
+    nombre_parroquia: Cheregüé
+    Municipio: Municipio_2103
+  Parroquia_210303:
+    nombre_parroquia: Granados
+    Municipio: Municipio_2103
+  Parroquia_210401:
+    nombre_parroquia: Chejendé
+    Municipio: Municipio_2104
+  Parroquia_210402:
+    nombre_parroquia: 'Arnoldo Gabaldón'
+    Municipio: Municipio_2104
+  Parroquia_210403:
+    nombre_parroquia: Bolivia
+    Municipio: Municipio_2104
+  Parroquia_210404:
+    nombre_parroquia: Carrillo
+    Municipio: Municipio_2104
+  Parroquia_210405:
+    nombre_parroquia: Cegarra
+    Municipio: Municipio_2104
+  Parroquia_210406:
+    nombre_parroquia: 'Manuel Salvador Ulloa'
+    Municipio: Municipio_2104
+  Parroquia_210407:
+    nombre_parroquia: 'San José'
+    Municipio: Municipio_2104
+  Parroquia_210501:
+    nombre_parroquia: Carache
+    Municipio: Municipio_2105
+  Parroquia_210502:
+    nombre_parroquia: Cuicas
+    Municipio: Municipio_2105
+  Parroquia_210503:
+    nombre_parroquia: 'La Concepción'
+    Municipio: Municipio_2105
+  Parroquia_210504:
+    nombre_parroquia: Panamericana
+    Municipio: Municipio_2105
+  Parroquia_210505:
+    nombre_parroquia: 'Santa Cruz'
+    Municipio: Municipio_2105
+  Parroquia_210601:
+    nombre_parroquia: Escuque
+    Municipio: Municipio_2106
+  Parroquia_210602:
+    nombre_parroquia: 'La Unión'
+    Municipio: Municipio_2106
+  Parroquia_210603:
+    nombre_parroquia: 'Sabana Libre'
+    Municipio: Municipio_2106
+  Parroquia_210604:
+    nombre_parroquia: 'Santa Rita'
+    Municipio: Municipio_2106
+  Parroquia_210701:
+    nombre_parroquia: 'El Socorro'
+    Municipio: Municipio_2107
+  Parroquia_210702:
+    nombre_parroquia: 'Antonio José de Sucre'
+    Municipio: Municipio_2107
+  Parroquia_210703:
+    nombre_parroquia: 'Los Caprichos'
+    Municipio: Municipio_2107
+  Parroquia_210801:
+    nombre_parroquia: 'Campo Elías'
+    Municipio: Municipio_2108
+  Parroquia_210802:
+    nombre_parroquia: 'Arnoldo Gabaldón'
+    Municipio: Municipio_2108
+  Parroquia_210901:
+    nombre_parroquia: 'Santa Apolonia'
+    Municipio: Municipio_2109
+  Parroquia_210902:
+    nombre_parroquia: 'El Progreso'
+    Municipio: Municipio_2109
+  Parroquia_210903:
+    nombre_parroquia: 'La Ceiba'
+    Municipio: Municipio_2109
+  Parroquia_210904:
+    nombre_parroquia: 'Tres de Febrero'
+    Municipio: Municipio_2109
+  Parroquia_211001:
+    nombre_parroquia: 'El Dividive'
+    Municipio: Municipio_2110
+  Parroquia_211002:
+    nombre_parroquia: 'Agua Santa'
+    Municipio: Municipio_2110
+  Parroquia_211003:
+    nombre_parroquia: 'Agua Caliente'
+    Municipio: Municipio_2110
+  Parroquia_211004:
+    nombre_parroquia: 'El Cenizo'
+    Municipio: Municipio_2110
+  Parroquia_211005:
+    nombre_parroquia: Valerita
+    Municipio: Municipio_2110
+  Parroquia_211101:
+    nombre_parroquia: 'Monte Carmelo'
+    Municipio: Municipio_2111
+  Parroquia_211102:
+    nombre_parroquia: 'Buena Vista'
+    Municipio: Municipio_2111
+  Parroquia_211103:
+    nombre_parroquia: 'Santa María del Horcón'
+    Municipio: Municipio_2111
+  Parroquia_211201:
+    nombre_parroquia: Motatán
+    Municipio: Municipio_2112
+  Parroquia_211202:
+    nombre_parroquia: 'El Baño'
+    Municipio: Municipio_2112
+  Parroquia_211203:
+    nombre_parroquia: Jalisco
+    Municipio: Municipio_2112
+  Parroquia_211301:
+    nombre_parroquia: Pampán
+    Municipio: Municipio_2113
+  Parroquia_211302:
+    nombre_parroquia: 'Flor de Patria'
+    Municipio: Municipio_2113
+  Parroquia_211304:
+    nombre_parroquia: 'La Paz'
+    Municipio: Municipio_2113
+  Parroquia_211305:
+    nombre_parroquia: 'Santa Ana'
+    Municipio: Municipio_2113
+  Parroquia_211401:
+    nombre_parroquia: Pampanito
+    Municipio: Municipio_2114
+  Parroquia_211402:
+    nombre_parroquia: 'La Concepción'
+    Municipio: Municipio_2114
+  Parroquia_211403:
+    nombre_parroquia: 'Pampanito II'
+    Municipio: Municipio_2114
+  Parroquia_211501:
+    nombre_parroquia: Betijoque
+    Municipio: Municipio_2115
+  Parroquia_211502:
+    nombre_parroquia: 'La Pueblita'
+    Municipio: Municipio_2115
+  Parroquia_211503:
+    nombre_parroquia: 'Los Cedros'
+    Municipio: Municipio_2115
+  Parroquia_211504:
+    nombre_parroquia: 'José Gregorio Hernández'
+    Municipio: Municipio_2115
+  Parroquia_211601:
+    nombre_parroquia: Carvajal
+    Municipio: Municipio_2116
+  Parroquia_211602:
+    nombre_parroquia: 'Antonio Nicolás Briceño'
+    Municipio: Municipio_2116
+  Parroquia_211603:
+    nombre_parroquia: 'Campo Alegre'
+    Municipio: Municipio_2116
+  Parroquia_211604:
+    nombre_parroquia: 'José Leonardo Suárez'
+    Municipio: Municipio_2116
+  Parroquia_211701:
+    nombre_parroquia: 'Sabana de Mendoza'
+    Municipio: Municipio_2117
+  Parroquia_211702:
+    nombre_parroquia: 'El Paraíso'
+    Municipio: Municipio_2117
+  Parroquia_211703:
+    nombre_parroquia: Junín
+    Municipio: Municipio_2117
+  Parroquia_211704:
+    nombre_parroquia: 'Valmore Rodríguez'
+    Municipio: Municipio_2117
+  Parroquia_211801:
+    nombre_parroquia: 'Andrés Linares'
+    Municipio: Municipio_2118
+  Parroquia_211802:
+    nombre_parroquia: Chiquinquirá
+    Municipio: Municipio_2118
+  Parroquia_211803:
+    nombre_parroquia: 'Cristóbal Mendoza'
+    Municipio: Municipio_2118
+  Parroquia_211804:
+    nombre_parroquia: 'Cruz Carrillo'
+    Municipio: Municipio_2118
+  Parroquia_211805:
+    nombre_parroquia: Matriz
+    Municipio: Municipio_2118
+  Parroquia_211806:
+    nombre_parroquia: 'Monseñor Carrillo'
+    Municipio: Municipio_2118
+  Parroquia_211807:
+    nombre_parroquia: 'Tres Esquinas'
+    Municipio: Municipio_2118
+  Parroquia_211901:
+    nombre_parroquia: 'La Quebrada'
+    Municipio: Municipio_2119
+  Parroquia_211902:
+    nombre_parroquia: Cabimbú
+    Municipio: Municipio_2119
+  Parroquia_211903:
+    nombre_parroquia: Jajó
+    Municipio: Municipio_2119
+  Parroquia_211904:
+    nombre_parroquia: 'La Mesa'
+    Municipio: Municipio_2119
+  Parroquia_211905:
+    nombre_parroquia: Santiago
+    Municipio: Municipio_2119
+  Parroquia_211906:
+    nombre_parroquia: Tuñame
+    Municipio: Municipio_2119
+  Parroquia_212001:
+    nombre_parroquia: 'Juan Ignacio Montilla'
+    Municipio: Municipio_2120
+  Parroquia_212002:
+    nombre_parroquia: 'La Beatriz'
+    Municipio: Municipio_2120
+  Parroquia_212003:
+    nombre_parroquia: 'Mercedes Díaz'
+    Municipio: Municipio_2120
+  Parroquia_212004:
+    nombre_parroquia: 'San Luis'
+    Municipio: Municipio_2120
+  Parroquia_212005:
+    nombre_parroquia: 'La Puerta'
+    Municipio: Municipio_2120
+  Parroquia_212006:
+    nombre_parroquia: Mendoza
+    Municipio: Municipio_2120
+  Parroquia_220101:
+    nombre_parroquia: 'Capital Arístides Bastidas'
+    Municipio: Municipio_2201
+  Parroquia_220201:
+    nombre_parroquia: 'Capital Bolívar'
+    Municipio: Municipio_2202
+  Parroquia_220301:
+    nombre_parroquia: 'Capital Bruzual'
+    Municipio: Municipio_2203
+  Parroquia_220302:
+    nombre_parroquia: 'Campo Elías'
+    Municipio: Municipio_2203
+  Parroquia_220401:
+    nombre_parroquia: 'Capital Cocorote'
+    Municipio: Municipio_2204
+  Parroquia_220501:
+    nombre_parroquia: 'Capital Independencia'
+    Municipio: Municipio_2205
+  Parroquia_220601:
+    nombre_parroquia: 'Capital José Antonio Páez'
+    Municipio: Municipio_2206
+  Parroquia_220701:
+    nombre_parroquia: 'Capital La Trinidad'
+    Municipio: Municipio_2207
+  Parroquia_220801:
+    nombre_parroquia: 'Capital Manuel Monge'
+    Municipio: Municipio_2208
+  Parroquia_220901:
+    nombre_parroquia: 'Capital Nirgua'
+    Municipio: Municipio_2209
+  Parroquia_220902:
+    nombre_parroquia: Salom
+    Municipio: Municipio_2209
+  Parroquia_220903:
+    nombre_parroquia: Temerla
+    Municipio: Municipio_2209
+  Parroquia_221001:
+    nombre_parroquia: 'Capital Peña'
+    Municipio: Municipio_2210
+  Parroquia_221002:
+    nombre_parroquia: 'San Andrés'
+    Municipio: Municipio_2210
+  Parroquia_221101:
+    nombre_parroquia: 'Capital San Felipe'
+    Municipio: Municipio_2211
+  Parroquia_221102:
+    nombre_parroquia: Albarico
+    Municipio: Municipio_2211
+  Parroquia_221103:
+    nombre_parroquia: 'San Javier'
+    Municipio: Municipio_2211
+  Parroquia_221201:
+    nombre_parroquia: 'Capital Sucre'
+    Municipio: Municipio_2212
+  Parroquia_221301:
+    nombre_parroquia: 'Capital Urachiche'
+    Municipio: Municipio_2213
+  Parroquia_221401:
+    nombre_parroquia: 'Capital Veroes'
+    Municipio: Municipio_2214
+  Parroquia_221402:
+    nombre_parroquia: 'El Guayabo'
+    Municipio: Municipio_2214
+  Parroquia_230101:
+    nombre_parroquia: 'Isla de Toas'
+    Municipio: Municipio_2301
+  Parroquia_230102:
+    nombre_parroquia: Monagas
+    Municipio: Municipio_2301
+  Parroquia_230201:
+    nombre_parroquia: 'San Timoteo'
+    Municipio: Municipio_2302
+  Parroquia_230202:
+    nombre_parroquia: 'General Urdaneta'
+    Municipio: Municipio_2302
+  Parroquia_230203:
+    nombre_parroquia: Libertador
+    Municipio: Municipio_2302
+  Parroquia_230204:
+    nombre_parroquia: 'Manuel Guanipa Matos'
+    Municipio: Municipio_2302
+  Parroquia_230205:
+    nombre_parroquia: 'Marcelino Briceño'
+    Municipio: Municipio_2302
+  Parroquia_230206:
+    nombre_parroquia: 'Pueblo Nuevo'
+    Municipio: Municipio_2302
+  Parroquia_230301:
+    nombre_parroquia: Ambrosio
+    Municipio: Municipio_2303
+  Parroquia_230302:
+    nombre_parroquia: 'Carmen Herrera'
+    Municipio: Municipio_2303
+  Parroquia_230303:
+    nombre_parroquia: 'Germán Ríos Linares'
+    Municipio: Municipio_2303
+  Parroquia_230304:
+    nombre_parroquia: 'La Rosa'
+    Municipio: Municipio_2303
+  Parroquia_230305:
+    nombre_parroquia: 'Jorge Hernández'
+    Municipio: Municipio_2303
+  Parroquia_230306:
+    nombre_parroquia: 'Rómulo Betancourt'
+    Municipio: Municipio_2303
+  Parroquia_230307:
+    nombre_parroquia: 'San Benito'
+    Municipio: Municipio_2303
+  Parroquia_230308:
+    nombre_parroquia: 'Arístides Calvani'
+    Municipio: Municipio_2303
+  Parroquia_230309:
+    nombre_parroquia: 'Punta Gorda'
+    Municipio: Municipio_2303
+  Parroquia_230401:
+    nombre_parroquia: Encontrados
+    Municipio: Municipio_2304
+  Parroquia_230402:
+    nombre_parroquia: 'Udón Pérez'
+    Municipio: Municipio_2304
+  Parroquia_230501:
+    nombre_parroquia: 'San Carlos del Zulia'
+    Municipio: Municipio_2305
+  Parroquia_230502:
+    nombre_parroquia: Moralito
+    Municipio: Municipio_2305
+  Parroquia_230503:
+    nombre_parroquia: 'Santa Bárbara'
+    Municipio: Municipio_2305
+  Parroquia_230504:
+    nombre_parroquia: 'Santa Cruz del Zulia'
+    Municipio: Municipio_2305
+  Parroquia_230505:
+    nombre_parroquia: Urribarri
+    Municipio: Municipio_2305
+  Parroquia_230601:
+    nombre_parroquia: 'Simón Rodríguez'
+    Municipio: Municipio_2306
+  Parroquia_230602:
+    nombre_parroquia: 'Carlos Quevedo'
+    Municipio: Municipio_2306
+  Parroquia_230603:
+    nombre_parroquia: 'Francisco Javier Pulgar'
+    Municipio: Municipio_2306
+  Parroquia_230701:
+    nombre_parroquia: 'La Concepción'
+    Municipio: Municipio_2307
+  Parroquia_230702:
+    nombre_parroquia: 'José Ramón Yepes'
+    Municipio: Municipio_2307
+  Parroquia_230703:
+    nombre_parroquia: 'Mariano Parra León'
+    Municipio: Municipio_2307
+  Parroquia_230704:
+    nombre_parroquia: 'San José'
+    Municipio: Municipio_2307
+  Parroquia_230801:
+    nombre_parroquia: 'Jesús María Semprún'
+    Municipio: Municipio_2308
+  Parroquia_230802:
+    nombre_parroquia: Barí
+    Municipio: Municipio_2308
+  Parroquia_230901:
+    nombre_parroquia: Concepción
+    Municipio: Municipio_2309
+  Parroquia_230902:
+    nombre_parroquia: 'Andrés Bello'
+    Municipio: Municipio_2309
+  Parroquia_230903:
+    nombre_parroquia: Chiquinquirá
+    Municipio: Municipio_2309
+  Parroquia_230904:
+    nombre_parroquia: 'El Carmelo'
+    Municipio: Municipio_2309
+  Parroquia_230905:
+    nombre_parroquia: Potreritos
+    Municipio: Municipio_2309
+  Parroquia_231001:
+    nombre_parroquia: 'Alonso de Ojeda'
+    Municipio: Municipio_2310
+  Parroquia_231002:
+    nombre_parroquia: Libertad
+    Municipio: Municipio_2310
+  Parroquia_231003:
+    nombre_parroquia: 'Campo Lara'
+    Municipio: Municipio_2310
+  Parroquia_231004:
+    nombre_parroquia: 'Eleazar López Contreras'
+    Municipio: Municipio_2310
+  Parroquia_231005:
+    nombre_parroquia: Venezuela
+    Municipio: Municipio_2310
+  Parroquia_231101:
+    nombre_parroquia: Libertad
+    Municipio: Municipio_2311
+  Parroquia_231102:
+    nombre_parroquia: 'Bartolomé de las Casas'
+    Municipio: Municipio_2311
+  Parroquia_231103:
+    nombre_parroquia: 'Río Negro'
+    Municipio: Municipio_2311
+  Parroquia_231104:
+    nombre_parroquia: 'San José de Perijá'
+    Municipio: Municipio_2311
+  Parroquia_231201:
+    nombre_parroquia: 'San Rafael'
+    Municipio: Municipio_2312
+  Parroquia_231202:
+    nombre_parroquia: 'La Sierrita'
+    Municipio: Municipio_2312
+  Parroquia_231203:
+    nombre_parroquia: 'Las Parcelas'
+    Municipio: Municipio_2312
+  Parroquia_231204:
+    nombre_parroquia: 'Luis de Vicente'
+    Municipio: Municipio_2312
+  Parroquia_231205:
+    nombre_parroquia: 'Monseñor Marcos Sergio Godoy'
+    Municipio: Municipio_2312
+  Parroquia_231206:
+    nombre_parroquia: Ricaurte
+    Municipio: Municipio_2312
+  Parroquia_231207:
+    nombre_parroquia: Tamare
+    Municipio: Municipio_2312
+  Parroquia_231301:
+    nombre_parroquia: 'Antonio Borjas Romero'
+    Municipio: Municipio_2313
+  Parroquia_231302:
+    nombre_parroquia: Bolívar
+    Municipio: Municipio_2313
+  Parroquia_231303:
+    nombre_parroquia: 'Cacique Mara'
+    Municipio: Municipio_2313
+  Parroquia_231304:
+    nombre_parroquia: 'Caracciolo Parra Pérez'
+    Municipio: Municipio_2313
+  Parroquia_231305:
+    nombre_parroquia: 'Cecilio Acosta'
+    Municipio: Municipio_2313
+  Parroquia_231306:
+    nombre_parroquia: 'Cristo de Aranza'
+    Municipio: Municipio_2313
+  Parroquia_231307:
+    nombre_parroquia: Coquivacoa
+    Municipio: Municipio_2313
+  Parroquia_231308:
+    nombre_parroquia: Chiquinquirá
+    Municipio: Municipio_2313
+  Parroquia_231309:
+    nombre_parroquia: 'Francisco Eugenio Bustamante'
+    Municipio: Municipio_2313
+  Parroquia_231310:
+    nombre_parroquia: 'Idelfonso Vásquez'
+    Municipio: Municipio_2313
+  Parroquia_231311:
+    nombre_parroquia: 'Juana de Avila'
+    Municipio: Municipio_2313
+  Parroquia_231312:
+    nombre_parroquia: 'Luis Hurtado Higuera'
+    Municipio: Municipio_2313
+  Parroquia_231313:
+    nombre_parroquia: 'Manuel Dagnino'
+    Municipio: Municipio_2313
+  Parroquia_231314:
+    nombre_parroquia: 'Olegario Villalobos'
+    Municipio: Municipio_2313
+  Parroquia_231315:
+    nombre_parroquia: 'Raúl Leoni'
+    Municipio: Municipio_2313
+  Parroquia_231316:
+    nombre_parroquia: 'Santa Lucía'
+    Municipio: Municipio_2313
+  Parroquia_231317:
+    nombre_parroquia: 'Venancio Pulgar'
+    Municipio: Municipio_2313
+  Parroquia_231318:
+    nombre_parroquia: 'San Isidro'
+    Municipio: Municipio_2313
+  Parroquia_231401:
+    nombre_parroquia: Altagracia
+    Municipio: Municipio_2314
+  Parroquia_231402:
+    nombre_parroquia: 'Ana María Campos'
+    Municipio: Municipio_2314
+  Parroquia_231403:
+    nombre_parroquia: Faría
+    Municipio: Municipio_2314
+  Parroquia_231404:
+    nombre_parroquia: 'San Antonio'
+    Municipio: Municipio_2314
+  Parroquia_231405:
+    nombre_parroquia: 'San José'
+    Municipio: Municipio_2314
+  Parroquia_231501:
+    nombre_parroquia: Sinamaica
+    Municipio: Municipio_2315
+  Parroquia_231502:
+    nombre_parroquia: 'Alta Guajira'
+    Municipio: Municipio_2315
+  Parroquia_231503:
+    nombre_parroquia: 'Elías Sánchez Rubio'
+    Municipio: Municipio_2315
+  Parroquia_231504:
+    nombre_parroquia: Guajira
+    Municipio: Municipio_2315
+  Parroquia_231601:
+    nombre_parroquia: 'El Rosario'
+    Municipio: Municipio_2316
+  Parroquia_231602:
+    nombre_parroquia: 'Donaldo García'
+    Municipio: Municipio_2316
+  Parroquia_231603:
+    nombre_parroquia: 'Sixto Zambrano'
+    Municipio: Municipio_2316
+  Parroquia_231701:
+    nombre_parroquia: 'San Francisco'
+    Municipio: Municipio_2317
+  Parroquia_231702:
+    nombre_parroquia: 'El Bajo'
+    Municipio: Municipio_2317
+  Parroquia_231703:
+    nombre_parroquia: 'Domitila Flores'
+    Municipio: Municipio_2317
+  Parroquia_231704:
+    nombre_parroquia: 'Francisco Ochoa'
+    Municipio: Municipio_2317
+  Parroquia_231705:
+    nombre_parroquia: 'Los Cortijos'
+    Municipio: Municipio_2317
+  Parroquia_231706:
+    nombre_parroquia: 'Marcial Hernández'
+    Municipio: Municipio_2317
+  Parroquia_231801:
+    nombre_parroquia: 'Santa Rita'
+    Municipio: Municipio_2318
+  Parroquia_231802:
+    nombre_parroquia: 'El Mene'
+    Municipio: Municipio_2318
+  Parroquia_231803:
+    nombre_parroquia: 'José Cenovio Urribarri'
+    Municipio: Municipio_2318
+  Parroquia_231804:
+    nombre_parroquia: 'Pedro Lucas Urribarri'
+    Municipio: Municipio_2318
+  Parroquia_231901:
+    nombre_parroquia: 'Manuel Manrique'
+    Municipio: Municipio_2319
+  Parroquia_231902:
+    nombre_parroquia: 'Rafael María Baralt'
+    Municipio: Municipio_2319
+  Parroquia_231903:
+    nombre_parroquia: 'Rafael Urdaneta'
+    Municipio: Municipio_2319
+  Parroquia_232001:
+    nombre_parroquia: Bobures
+    Municipio: Municipio_2320
+  Parroquia_232002:
+    nombre_parroquia: 'El Batey'
+    Municipio: Municipio_2320
+  Parroquia_232003:
+    nombre_parroquia: Gibraltar
+    Municipio: Municipio_2320
+  Parroquia_232004:
+    nombre_parroquia: Heras
+    Municipio: Municipio_2320
+  Parroquia_232005:
+    nombre_parroquia: 'Monseñor Arturo Celestino Alvarez'
+    Municipio: Municipio_2320
+  Parroquia_232006:
+    nombre_parroquia: 'Rómulo Gallegos'
+    Municipio: Municipio_2320
+  Parroquia_232101:
+    nombre_parroquia: 'La Victoria'
+    Municipio: Municipio_2321
+  Parroquia_232102:
+    nombre_parroquia: 'Rafael Urdaneta'
+    Municipio: Municipio_2321
+  Parroquia_232103:
+    nombre_parroquia: 'Raúl Cuenca'
+    Municipio: Municipio_2321
+  Parroquia_240101:
+    nombre_parroquia: Caraballeda
+    Municipio: Municipio_2401
+  Parroquia_240102:
+    nombre_parroquia: Carayaca
+    Municipio: Municipio_2401
+  Parroquia_240103:
+    nombre_parroquia: Caruao
+    Municipio: Municipio_2401
+  Parroquia_240104:
+    nombre_parroquia: 'Catia La Mar'
+    Municipio: Municipio_2401
+  Parroquia_240105:
+    nombre_parroquia: 'El Junko'
+    Municipio: Municipio_2401
+  Parroquia_240106:
+    nombre_parroquia: 'La Guaira'
+    Municipio: Municipio_2401
+  Parroquia_240107:
+    nombre_parroquia: Macuto
+    Municipio: Municipio_2401
+  Parroquia_240108:
+    nombre_parroquia: Maiquetía
+    Municipio: Municipio_2401
+  Parroquia_240109:
+    nombre_parroquia: Naiguatá
+    Municipio: Municipio_2401
+  Parroquia_240110:
+    nombre_parroquia: 'Raúl Leoni'
+    Municipio: Municipio_2401
+  Parroquia_240111:
+    nombre_parroquia: 'Carlos Soublette'
+    Municipio: Municipio_2401
+  Parroquia_880101:
+    nombre_parroquia: 'Gran Roque'
+    Municipio: Municipio_8801
+  Parroquia_880102:
+    nombre_parroquia: 'Madrisqui (Madrisque - Cayo Rata)'
+    Municipio: Municipio_8801
+  Parroquia_880103:
+    nombre_parroquia: 'Francisqui del Norte'
+    Municipio: Municipio_8801
+  Parroquia_880104:
+    nombre_parroquia: 'Francisqui del Sur ó Cayo Refugio'
+    Municipio: Municipio_8801
+  Parroquia_880105:
+    nombre_parroquia: 'Cayo Pirata'
+    Municipio: Municipio_8801
+  Parroquia_880106:
+    nombre_parroquia: Crasqui
+    Municipio: Municipio_8801
+  Parroquia_880107:
+    nombre_parroquia: Rasqui
+    Municipio: Municipio_8801
+  Parroquia_880108:
+    nombre_parroquia: 'Aguistín ó Prestonqui'
+    Municipio: Municipio_8801
+  Parroquia_880109:
+    nombre_parroquia: 'Cayo Loco ó Porqui'
+    Municipio: Municipio_8801
+  Parroquia_880110:
+    nombre_parroquia: Botoqui
+    Municipio: Municipio_8801
+  Parroquia_880111:
+    nombre_parroquia: Samqui
+    Municipio: Municipio_8801
+  Parroquia_880112:
+    nombre_parroquia: Burqui
+    Municipio: Municipio_8801
+  Parroquia_880113:
+    nombre_parroquia: 'Cayo Carenero'
+    Municipio: Municipio_8801
+  Parroquia_880114:
+    nombre_parroquia: 'Cayo Fernando'
+    Municipio: Municipio_8801
+  Parroquia_880115:
+    nombre_parroquia: 'Mosquises Norte'
+    Municipio: Municipio_8801
+  Parroquia_880116:
+    nombre_parroquia: 'Mosquises Sur (F.C.L.R.)'
+    Municipio: Municipio_8801
+  Parroquia_880117:
+    nombre_parroquia: 'Pelona de Dos Mosquises'
+    Municipio: Municipio_8801
+  Parroquia_880118:
+    nombre_parroquia: 'Vespen ó Cayo Sal'
+    Municipio: Municipio_8801
+  Parroquia_880119:
+    nombre_parroquia: 'Boca de Cote'
+    Municipio: Municipio_8801
+  Parroquia_880120:
+    nombre_parroquia: 'Bajo de Botuto'
+    Municipio: Municipio_8801
+  Parroquia_880201:
+    nombre_parroquia: 'Testigos Grandes'
+    Municipio: Municipio_8802
+  Parroquia_880202:
+    nombre_parroquia: Iguana
+    Municipio: Municipio_8802
+  Parroquia_880301:
+    nombre_parroquia: 'La Borracha'
+    Municipio: Municipio_8803
+  Parroquia_880302:
+    nombre_parroquia: 'Chimana Grande'
+    Municipio: Municipio_8803
+  Parroquia_880303:
+    nombre_parroquia: 'Chimana del Oeste'
+    Municipio: Municipio_8803
+  Parroquia_880304:
+    nombre_parroquia: 'Chimana del Sur'
+    Municipio: Municipio_8803
+  Parroquia_880305:
+    nombre_parroquia: Burro
+    Municipio: Municipio_8803
+  Parroquia_880306:
+    nombre_parroquia: Varadero
+    Municipio: Municipio_8803
+  Parroquia_880307:
+    nombre_parroquia: Monos
+    Municipio: Municipio_8803
+  Parroquia_880308:
+    nombre_parroquia: 'Picuda Grande'
+    Municipio: Municipio_8803
+  Parroquia_880401:
+    nombre_parroquia: 'La Blanquilla'
+    Municipio: Municipio_8804
+  Parroquia_880500:
+    nombre_parroquia: 'Grupo 5'
+    Municipio: Municipio_8805
+  Parroquia_880501:
+    nombre_parroquia: 'Morro de la Pecha (Puerto Real)'
+    Municipio: Municipio_8805
+  Parroquia_880601:
+    nombre_parroquia: 'Isla de Patos'
+    Municipio: Municipio_8806
+  Parroquia_880701:
+    nombre_parroquia: 'Píritu Adentro'
+    Municipio: Municipio_8807
+  Parroquia_10108:
+    nombre_parroquia: 'EL Paraíso'
+    Municipio: Municipio_101
+  Parroquia_10111:
+    nombre_parroquia: 'La Pastora'
+    Municipio: Municipio_101
+  Parroquia_10101:
+    nombre_parroquia: Altagracia
+    Municipio: Municipio_101
+  Parroquia_10120:
+    nombre_parroquia: 'Santa Teresa'
+    Municipio: Municipio_101
+  Parroquia_10121:
+    nombre_parroquia: Sucre
+    Municipio: Municipio_101
+  Parroquia_10122:
+    nombre_parroquia: '23 de Enero'
+    Municipio: Municipio_101
+  Parroquia_10109:
+    nombre_parroquia: 'El Recreo'
+    Municipio: Municipio_101
+  Parroquia_10110:
+    nombre_parroquia: 'El Valle'
+    Municipio: Municipio_101
+  Parroquia_10112:
+    nombre_parroquia: 'La Vega'
+    Municipio: Municipio_101
+  Parroquia_10113:
+    nombre_parroquia: Macarao
+    Municipio: Municipio_101
+  Parroquia_10114:
+    nombre_parroquia: 'San Agustín'
+    Municipio: Municipio_101
+  Parroquia_10115:
+    nombre_parroquia: 'San Bernardino'
+    Municipio: Municipio_101
+  Parroquia_10116:
+    nombre_parroquia: 'San José'
+    Municipio: Municipio_101
+  Parroquia_10117:
+    nombre_parroquia: 'San Juan'
+    Municipio: Municipio_101
+Municipio:
+  Municipio_101:
+    nombre_municipio: Libertador
+    Estado: Estado_1
+  Municipio_301:
+    nombre_municipio: Anaco
+    Estado: Estado_3
+  Municipio_302:
+    nombre_municipio: Aragua
+    Estado: Estado_3
+  Municipio_303:
+    nombre_municipio: 'Fernando de Peñalver'
+    Estado: Estado_3
+  Municipio_304:
+    nombre_municipio: 'Francisco del Carmen Carvajal'
+    Estado: Estado_3
+  Municipio_305:
+    nombre_municipio: 'Francisco de Miranda'
+    Estado: Estado_3
+  Municipio_306:
+    nombre_municipio: Guanta
+    Estado: Estado_3
+  Municipio_307:
+    nombre_municipio: Independencia
+    Estado: Estado_3
+  Municipio_308:
+    nombre_municipio: 'Juan Antonio Sotillo'
+    Estado: Estado_3
+  Municipio_309:
+    nombre_municipio: 'Juan Manuel Cajigal'
+    Estado: Estado_3
+  Municipio_310:
+    nombre_municipio: 'José Gregorio Monagas'
+    Estado: Estado_3
+  Municipio_311:
+    nombre_municipio: Libertad
+    Estado: Estado_3
+  Municipio_312:
+    nombre_municipio: 'Manuel Ezequiel Bruzual'
+    Estado: Estado_3
+  Municipio_313:
+    nombre_municipio: 'Pedro María Freites'
+    Estado: Estado_3
+  Municipio_314:
+    nombre_municipio: Píritu
+    Estado: Estado_3
+  Municipio_315:
+    nombre_municipio: 'San José de Guanipa'
+    Estado: Estado_3
+  Municipio_316:
+    nombre_municipio: 'San Juan de Capistrano'
+    Estado: Estado_3
+  Municipio_317:
+    nombre_municipio: 'Santa Ana'
+    Estado: Estado_3
+  Municipio_318:
+    nombre_municipio: 'Simón Bolívar'
+    Estado: Estado_3
+  Municipio_319:
+    nombre_municipio: 'Simón Rodríguez'
+    Estado: Estado_3
+  Municipio_320:
+    nombre_municipio: 'Sir Arthur Mc Gregor'
+    Estado: Estado_3
+  Municipio_321:
+    nombre_municipio: 'Diego Bautista Urbaneja'
+    Estado: Estado_3
+  Municipio_401:
+    nombre_municipio: Achaguas
+    Estado: Estado_4
+  Municipio_402:
+    nombre_municipio: Biruaca
+    Estado: Estado_4
+  Municipio_403:
+    nombre_municipio: Muñoz
+    Estado: Estado_4
+  Municipio_404:
+    nombre_municipio: Páez
+    Estado: Estado_4
+  Municipio_405:
+    nombre_municipio: 'Pedro Camejo'
+    Estado: Estado_4
+  Municipio_406:
+    nombre_municipio: 'Rómulo Gallegos'
+    Estado: Estado_4
+  Municipio_407:
+    nombre_municipio: 'San Fernando'
+    Estado: Estado_4
+  Municipio_501:
+    nombre_municipio: Bolívar
+    Estado: Estado_5
+  Municipio_502:
+    nombre_municipio: Camatagua
+    Estado: Estado_5
+  Municipio_503:
+    nombre_municipio: Girardot
+    Estado: Estado_5
+  Municipio_504:
+    nombre_municipio: 'José Angel Lamas'
+    Estado: Estado_5
+  Municipio_505:
+    nombre_municipio: 'José Félix Ribas'
+    Estado: Estado_5
+  Municipio_506:
+    nombre_municipio: 'José Rafael Revenga'
+    Estado: Estado_5
+  Municipio_507:
+    nombre_municipio: Libertador
+    Estado: Estado_5
+  Municipio_508:
+    nombre_municipio: 'Mario Briceño Iragorry'
+    Estado: Estado_5
+  Municipio_509:
+    nombre_municipio: 'San Casimiro'
+    Estado: Estado_5
+  Municipio_510:
+    nombre_municipio: 'San Sebastián'
+    Estado: Estado_5
+  Municipio_511:
+    nombre_municipio: 'Santiago Mariño'
+    Estado: Estado_5
+  Municipio_512:
+    nombre_municipio: 'Santos Michelena'
+    Estado: Estado_5
+  Municipio_513:
+    nombre_municipio: Sucre
+    Estado: Estado_5
+  Municipio_514:
+    nombre_municipio: Tovar
+    Estado: Estado_5
+  Municipio_515:
+    nombre_municipio: Urdaneta
+    Estado: Estado_5
+  Municipio_516:
+    nombre_municipio: Zamora
+    Estado: Estado_5
+  Municipio_517:
+    nombre_municipio: 'Francisco Linares Alcántara'
+    Estado: Estado_5
+  Municipio_518:
+    nombre_municipio: 'Ocumare de La Costa de Oro'
+    Estado: Estado_5
+  Municipio_601:
+    nombre_municipio: 'Alberto Arvelo Torrealba'
+    Estado: Estado_6
+  Municipio_602:
+    nombre_municipio: 'Antonio José de Sucre'
+    Estado: Estado_6
+  Municipio_603:
+    nombre_municipio: Arismendi
+    Estado: Estado_6
+  Municipio_604:
+    nombre_municipio: Barinas
+    Estado: Estado_6
+  Municipio_605:
+    nombre_municipio: Bolívar
+    Estado: Estado_6
+  Municipio_606:
+    nombre_municipio: 'Cruz Paredes'
+    Estado: Estado_6
+  Municipio_607:
+    nombre_municipio: 'Ezequiel Zamora'
+    Estado: Estado_6
+  Municipio_608:
+    nombre_municipio: Obispos
+    Estado: Estado_6
+  Municipio_609:
+    nombre_municipio: Pedraza
+    Estado: Estado_6
+  Municipio_610:
+    nombre_municipio: Rojas
+    Estado: Estado_6
+  Municipio_611:
+    nombre_municipio: Sosa
+    Estado: Estado_6
+  Municipio_612:
+    nombre_municipio: 'Andrés Eloy Blanco'
+    Estado: Estado_6
+  Municipio_701:
+    nombre_municipio: Caroní
+    Estado: Estado_7
+  Municipio_702:
+    nombre_municipio: Cedeño
+    Estado: Estado_7
+  Municipio_703:
+    nombre_municipio: 'El Callao'
+    Estado: Estado_7
+  Municipio_704:
+    nombre_municipio: 'Gran Sabana'
+    Estado: Estado_7
+  Municipio_705:
+    nombre_municipio: Heres
+    Estado: Estado_7
+  Municipio_706:
+    nombre_municipio: Piar
+    Estado: Estado_7
+  Municipio_707:
+    nombre_municipio: 'Raúl Leoni'
+    Estado: Estado_7
+  Municipio_708:
+    nombre_municipio: Roscio
+    Estado: Estado_7
+  Municipio_709:
+    nombre_municipio: Sifontes
+    Estado: Estado_7
+  Municipio_710:
+    nombre_municipio: Sucre
+    Estado: Estado_7
+  Municipio_711:
+    nombre_municipio: 'Padre Pedro Chien'
+    Estado: Estado_7
+  Municipio_801:
+    nombre_municipio: Bejuma
+    Estado: Estado_8
+  Municipio_802:
+    nombre_municipio: 'Carlos Arvelo'
+    Estado: Estado_8
+  Municipio_803:
+    nombre_municipio: 'Diego Ibarra'
+    Estado: Estado_8
+  Municipio_804:
+    nombre_municipio: Guacara
+    Estado: Estado_8
+  Municipio_805:
+    nombre_municipio: 'Juan José Mora'
+    Estado: Estado_8
+  Municipio_806:
+    nombre_municipio: Libertador
+    Estado: Estado_8
+  Municipio_807:
+    nombre_municipio: 'Los Guayos'
+    Estado: Estado_8
+  Municipio_808:
+    nombre_municipio: Miranda
+    Estado: Estado_8
+  Municipio_809:
+    nombre_municipio: Montalbán
+    Estado: Estado_8
+  Municipio_810:
+    nombre_municipio: Naguanagua
+    Estado: Estado_8
+  Municipio_811:
+    nombre_municipio: 'Puerto Cabello'
+    Estado: Estado_8
+  Municipio_812:
+    nombre_municipio: 'San Diego'
+    Estado: Estado_8
+  Municipio_813:
+    nombre_municipio: 'San Joaquín'
+    Estado: Estado_8
+  Municipio_814:
+    nombre_municipio: Valencia
+    Estado: Estado_8
+  Municipio_901:
+    nombre_municipio: Anzoátegui
+    Estado: Estado_9
+  Municipio_902:
+    nombre_municipio: Falcón
+    Estado: Estado_9
+  Municipio_903:
+    nombre_municipio: Girardot
+    Estado: Estado_9
+  Municipio_904:
+    nombre_municipio: 'Lima Blanco'
+    Estado: Estado_9
+  Municipio_905:
+    nombre_municipio: 'Pao de San Juan Bautista'
+    Estado: Estado_9
+  Municipio_906:
+    nombre_municipio: Ricaurte
+    Estado: Estado_9
+  Municipio_907:
+    nombre_municipio: 'Rómulo Gallegos'
+    Estado: Estado_9
+  Municipio_908:
+    nombre_municipio: 'San Carlos'
+    Estado: Estado_9
+  Municipio_909:
+    nombre_municipio: Tinaco
+    Estado: Estado_9
+  Municipio_1001:
+    nombre_municipio: 'Antonio Díaz'
+    Estado: Estado_10
+  Municipio_1002:
+    nombre_municipio: Casacoima
+    Estado: Estado_10
+  Municipio_1003:
+    nombre_municipio: Pedernales
+    Estado: Estado_10
+  Municipio_1004:
+    nombre_municipio: Tucupita
+    Estado: Estado_10
+  Municipio_1101:
+    nombre_municipio: Acosta
+    Estado: Estado_11
+  Municipio_1102:
+    nombre_municipio: Bolívar
+    Estado: Estado_11
+  Municipio_1103:
+    nombre_municipio: Buchivacoa
+    Estado: Estado_11
+  Municipio_1104:
+    nombre_municipio: 'Cacique Manaure'
+    Estado: Estado_11
+  Municipio_1105:
+    nombre_municipio: Carirubana
+    Estado: Estado_11
+  Municipio_1106:
+    nombre_municipio: Colina
+    Estado: Estado_11
+  Municipio_1107:
+    nombre_municipio: Dabajuro
+    Estado: Estado_11
+  Municipio_1108:
+    nombre_municipio: Democracia
+    Estado: Estado_11
+  Municipio_1109:
+    nombre_municipio: Falcón
+    Estado: Estado_11
+  Municipio_1110:
+    nombre_municipio: Federación
+    Estado: Estado_11
+  Municipio_1111:
+    nombre_municipio: Jacura
+    Estado: Estado_11
+  Municipio_1112:
+    nombre_municipio: 'Los Taques'
+    Estado: Estado_11
+  Municipio_1113:
+    nombre_municipio: Mauroa
+    Estado: Estado_11
+  Municipio_1114:
+    nombre_municipio: Miranda
+    Estado: Estado_11
+  Municipio_1115:
+    nombre_municipio: 'Monseñor Iturriza'
+    Estado: Estado_11
+  Municipio_1116:
+    nombre_municipio: Palmasola
+    Estado: Estado_11
+  Municipio_1117:
+    nombre_municipio: Petit
+    Estado: Estado_11
+  Municipio_1118:
+    nombre_municipio: Píritu
+    Estado: Estado_11
+  Municipio_1119:
+    nombre_municipio: 'San Francisco'
+    Estado: Estado_11
+  Municipio_1120:
+    nombre_municipio: Silva
+    Estado: Estado_11
+  Municipio_1121:
+    nombre_municipio: Sucre
+    Estado: Estado_11
+  Municipio_1122:
+    nombre_municipio: Tocópero
+    Estado: Estado_11
+  Municipio_1123:
+    nombre_municipio: Unión
+    Estado: Estado_11
+  Municipio_1124:
+    nombre_municipio: Urumaco
+    Estado: Estado_11
+  Municipio_1125:
+    nombre_municipio: Zamora
+    Estado: Estado_11
+  Municipio_1201:
+    nombre_municipio: Camaguán
+    Estado: Estado_12
+  Municipio_1202:
+    nombre_municipio: Chaguaramas
+    Estado: Estado_12
+  Municipio_1203:
+    nombre_municipio: 'El Socorro'
+    Estado: Estado_12
+  Municipio_1204:
+    nombre_municipio: 'San Gerónimo de Guayabal'
+    Estado: Estado_12
+  Municipio_1205:
+    nombre_municipio: 'Leonardo Infante'
+    Estado: Estado_12
+  Municipio_1206:
+    nombre_municipio: 'Las Mercedes'
+    Estado: Estado_12
+  Municipio_1207:
+    nombre_municipio: 'Julián Mellado'
+    Estado: Estado_12
+  Municipio_1208:
+    nombre_municipio: 'Francisco de Miranda'
+    Estado: Estado_12
+  Municipio_1209:
+    nombre_municipio: 'José Tadeo Monagas'
+    Estado: Estado_12
+  Municipio_1210:
+    nombre_municipio: Ortiz
+    Estado: Estado_12
+  Municipio_1211:
+    nombre_municipio: 'José Félix Ribas'
+    Estado: Estado_12
+  Municipio_1212:
+    nombre_municipio: 'Juan Germán Roscio'
+    Estado: Estado_12
+  Municipio_1213:
+    nombre_municipio: 'San José de Guaribe'
+    Estado: Estado_12
+  Municipio_1214:
+    nombre_municipio: 'Santa María de Ipire'
+    Estado: Estado_12
+  Municipio_1215:
+    nombre_municipio: 'Pedro Zaraza'
+    Estado: Estado_12
+  Municipio_1301:
+    nombre_municipio: 'Andrés Eloy Blanco'
+    Estado: Estado_13
+  Municipio_1302:
+    nombre_municipio: Crespo
+    Estado: Estado_13
+  Municipio_1303:
+    nombre_municipio: Iribarren
+    Estado: Estado_13
+  Municipio_1304:
+    nombre_municipio: Jiménez
+    Estado: Estado_13
+  Municipio_1305:
+    nombre_municipio: Morán
+    Estado: Estado_13
+  Municipio_1306:
+    nombre_municipio: Palavecino
+    Estado: Estado_13
+  Municipio_1307:
+    nombre_municipio: 'Simón Planas'
+    Estado: Estado_13
+  Municipio_1308:
+    nombre_municipio: Torres
+    Estado: Estado_13
+  Municipio_1309:
+    nombre_municipio: Urdaneta
+    Estado: Estado_13
+  Municipio_201:
+    nombre_municipio: 'Alto Orinoco'
+    Estado: Estado_2
+  Municipio_202:
+    nombre_municipio: Atabapo
+    Estado: Estado_2
+  Municipio_1402:
+    nombre_municipio: 'Andrés Bello'
+    Estado: Estado_14
+  Municipio_1404:
+    nombre_municipio: Aricagua
+    Estado: Estado_14
+  Municipio_205:
+    nombre_municipio: Maroa
+    Estado: Estado_2
+  Municipio_206:
+    nombre_municipio: Manapiare
+    Estado: Estado_2
+  Municipio_207:
+    nombre_municipio: 'Río Negro'
+    Estado: Estado_2
+  Municipio_1501:
+    nombre_municipio: Acevedo
+    Estado: Estado_15
+  Municipio_1502:
+    nombre_municipio: 'Andrés Bello'
+    Estado: Estado_15
+  Municipio_1503:
+    nombre_municipio: Baruta
+    Estado: Estado_15
+  Municipio_1504:
+    nombre_municipio: Brión
+    Estado: Estado_15
+  Municipio_1505:
+    nombre_municipio: Buroz
+    Estado: Estado_15
+  Municipio_1506:
+    nombre_municipio: Carrizal
+    Estado: Estado_15
+  Municipio_1507:
+    nombre_municipio: Chacao
+    Estado: Estado_15
+  Municipio_1508:
+    nombre_municipio: 'Cristóbal Rojas'
+    Estado: Estado_15
+  Municipio_1509:
+    nombre_municipio: 'El Hatillo'
+    Estado: Estado_15
+  Municipio_1510:
+    nombre_municipio: Guaicaipuro
+    Estado: Estado_15
+  Municipio_1511:
+    nombre_municipio: Independencia
+    Estado: Estado_15
+  Municipio_1512:
+    nombre_municipio: Lander
+    Estado: Estado_15
+  Municipio_1513:
+    nombre_municipio: 'Los Salias'
+    Estado: Estado_15
+  Municipio_1514:
+    nombre_municipio: Páez
+    Estado: Estado_15
+  Municipio_1515:
+    nombre_municipio: 'Paz Castillo'
+    Estado: Estado_15
+  Municipio_1516:
+    nombre_municipio: 'Pedro Gual'
+    Estado: Estado_15
+  Municipio_1517:
+    nombre_municipio: Plaza
+    Estado: Estado_15
+  Municipio_1518:
+    nombre_municipio: 'Simón Bolívar'
+    Estado: Estado_15
+  Municipio_1519:
+    nombre_municipio: Sucre
+    Estado: Estado_15
+  Municipio_1520:
+    nombre_municipio: Urdaneta
+    Estado: Estado_15
+  Municipio_1521:
+    nombre_municipio: Zamora
+    Estado: Estado_15
+  Municipio_1601:
+    nombre_municipio: Acosta
+    Estado: Estado_16
+  Municipio_1602:
+    nombre_municipio: Aguasay
+    Estado: Estado_16
+  Municipio_1603:
+    nombre_municipio: Bolívar
+    Estado: Estado_16
+  Municipio_1604:
+    nombre_municipio: Caripe
+    Estado: Estado_16
+  Municipio_1605:
+    nombre_municipio: Cedeño
+    Estado: Estado_16
+  Municipio_1606:
+    nombre_municipio: 'Ezequiel Zamora'
+    Estado: Estado_16
+  Municipio_1607:
+    nombre_municipio: Libertador
+    Estado: Estado_16
+  Municipio_1608:
+    nombre_municipio: Maturín
+    Estado: Estado_16
+  Municipio_1609:
+    nombre_municipio: Piar
+    Estado: Estado_16
+  Municipio_1610:
+    nombre_municipio: Punceres
+    Estado: Estado_16
+  Municipio_1611:
+    nombre_municipio: 'Santa Bárbara'
+    Estado: Estado_16
+  Municipio_1612:
+    nombre_municipio: Sotillo
+    Estado: Estado_16
+  Municipio_1613:
+    nombre_municipio: Uracoa
+    Estado: Estado_16
+  Municipio_1701:
+    nombre_municipio: 'Antolín del Campo'
+    Estado: Estado_17
+  Municipio_1702:
+    nombre_municipio: Arismendi
+    Estado: Estado_17
+  Municipio_1703:
+    nombre_municipio: Díaz
+    Estado: Estado_17
+  Municipio_1704:
+    nombre_municipio: García
+    Estado: Estado_17
+  Municipio_1705:
+    nombre_municipio: Gómez
+    Estado: Estado_17
+  Municipio_1706:
+    nombre_municipio: Maneiro
+    Estado: Estado_17
+  Municipio_1707:
+    nombre_municipio: Marcano
+    Estado: Estado_17
+  Municipio_1708:
+    nombre_municipio: Mariño
+    Estado: Estado_17
+  Municipio_1709:
+    nombre_municipio: 'Península de Macanao'
+    Estado: Estado_17
+  Municipio_1710:
+    nombre_municipio: Tubores
+    Estado: Estado_17
+  Municipio_1711:
+    nombre_municipio: Villalba
+    Estado: Estado_17
+  Municipio_1801:
+    nombre_municipio: 'Agua Blanca'
+    Estado: Estado_18
+  Municipio_1802:
+    nombre_municipio: Araure
+    Estado: Estado_18
+  Municipio_1803:
+    nombre_municipio: Esteller
+    Estado: Estado_18
+  Municipio_1804:
+    nombre_municipio: Guanare
+    Estado: Estado_18
+  Municipio_1805:
+    nombre_municipio: Guanarito
+    Estado: Estado_18
+  Municipio_1806:
+    nombre_municipio: 'Monseñor José Vicente de Unda'
+    Estado: Estado_18
+  Municipio_1807:
+    nombre_municipio: Ospino
+    Estado: Estado_18
+  Municipio_1808:
+    nombre_municipio: Páez
+    Estado: Estado_18
+  Municipio_1809:
+    nombre_municipio: Papelón
+    Estado: Estado_18
+  Municipio_1810:
+    nombre_municipio: 'San Genaro de Boconoito'
+    Estado: Estado_18
+  Municipio_1811:
+    nombre_municipio: 'San Rafael de Onoto'
+    Estado: Estado_18
+  Municipio_1812:
+    nombre_municipio: 'Santa Rosalía'
+    Estado: Estado_18
+  Municipio_1813:
+    nombre_municipio: Sucre
+    Estado: Estado_18
+  Municipio_1814:
+    nombre_municipio: Turén
+    Estado: Estado_18
+  Municipio_1901:
+    nombre_municipio: 'Andrés Eloy Blanco'
+    Estado: Estado_19
+  Municipio_1902:
+    nombre_municipio: 'Andrés Mata'
+    Estado: Estado_19
+  Municipio_1903:
+    nombre_municipio: Arismendi
+    Estado: Estado_19
+  Municipio_1904:
+    nombre_municipio: Benítez
+    Estado: Estado_19
+  Municipio_1905:
+    nombre_municipio: Bermúdez
+    Estado: Estado_19
+  Municipio_1906:
+    nombre_municipio: Bolívar
+    Estado: Estado_19
+  Municipio_1907:
+    nombre_municipio: Cajigal
+    Estado: Estado_19
+  Municipio_1908:
+    nombre_municipio: 'Cruz Salmerón Acosta'
+    Estado: Estado_19
+  Municipio_1909:
+    nombre_municipio: Libertador
+    Estado: Estado_19
+  Municipio_1910:
+    nombre_municipio: Mariño
+    Estado: Estado_19
+  Municipio_1911:
+    nombre_municipio: Mejía
+    Estado: Estado_19
+  Municipio_1912:
+    nombre_municipio: Montes
+    Estado: Estado_19
+  Municipio_1913:
+    nombre_municipio: Ribero
+    Estado: Estado_19
+  Municipio_1914:
+    nombre_municipio: Sucre
+    Estado: Estado_19
+  Municipio_1915:
+    nombre_municipio: Valdez
+    Estado: Estado_19
+  Municipio_2001:
+    nombre_municipio: 'Andrés Bello'
+    Estado: Estado_20
+  Municipio_2002:
+    nombre_municipio: 'Antonio Rómulo Costa'
+    Estado: Estado_20
+  Municipio_2003:
+    nombre_municipio: Ayacucho
+    Estado: Estado_20
+  Municipio_2004:
+    nombre_municipio: Bolívar
+    Estado: Estado_20
+  Municipio_2005:
+    nombre_municipio: Cárdenas
+    Estado: Estado_20
+  Municipio_2006:
+    nombre_municipio: Córdoba
+    Estado: Estado_20
+  Municipio_2007:
+    nombre_municipio: 'Fernández Feo'
+    Estado: Estado_20
+  Municipio_2008:
+    nombre_municipio: 'Francisco de Miranda'
+    Estado: Estado_20
+  Municipio_2009:
+    nombre_municipio: 'García de Hevia'
+    Estado: Estado_20
+  Municipio_2010:
+    nombre_municipio: Guásimos
+    Estado: Estado_20
+  Municipio_2011:
+    nombre_municipio: Independencia
+    Estado: Estado_20
+  Municipio_2012:
+    nombre_municipio: Jáuregui
+    Estado: Estado_20
+  Municipio_2013:
+    nombre_municipio: 'José María Vargas'
+    Estado: Estado_20
+  Municipio_2014:
+    nombre_municipio: Junín
+    Estado: Estado_20
+  Municipio_2015:
+    nombre_municipio: Libertad
+    Estado: Estado_20
+  Municipio_2016:
+    nombre_municipio: Libertador
+    Estado: Estado_20
+  Municipio_2017:
+    nombre_municipio: Lobatera
+    Estado: Estado_20
+  Municipio_2018:
+    nombre_municipio: Michelena
+    Estado: Estado_20
+  Municipio_2019:
+    nombre_municipio: Panamericano
+    Estado: Estado_20
+  Municipio_2020:
+    nombre_municipio: 'Pedro María Ureña'
+    Estado: Estado_20
+  Municipio_2021:
+    nombre_municipio: 'Rafael Urdaneta'
+    Estado: Estado_20
+  Municipio_2022:
+    nombre_municipio: 'Samuel Darío Maldonado'
+    Estado: Estado_20
+  Municipio_2023:
+    nombre_municipio: 'San Cristóbal'
+    Estado: Estado_20
+  Municipio_2024:
+    nombre_municipio: Seboruco
+    Estado: Estado_20
+  Municipio_2025:
+    nombre_municipio: 'Simón Rodríguez'
+    Estado: Estado_20
+  Municipio_2026:
+    nombre_municipio: Sucre
+    Estado: Estado_20
+  Municipio_2027:
+    nombre_municipio: Torbes
+    Estado: Estado_20
+  Municipio_2028:
+    nombre_municipio: Uribante
+    Estado: Estado_20
+  Municipio_2029:
+    nombre_municipio: 'San Judas Tadeo'
+    Estado: Estado_20
+  Municipio_2101:
+    nombre_municipio: 'Andrés Bello'
+    Estado: Estado_21
+  Municipio_2102:
+    nombre_municipio: Boconó
+    Estado: Estado_21
+  Municipio_2103:
+    nombre_municipio: Bolívar
+    Estado: Estado_21
+  Municipio_2104:
+    nombre_municipio: Candelaria
+    Estado: Estado_21
+  Municipio_2105:
+    nombre_municipio: Carache
+    Estado: Estado_21
+  Municipio_2106:
+    nombre_municipio: Escuque
+    Estado: Estado_21
+  Municipio_2107:
+    nombre_municipio: 'José Felipe Márquez Cañizales'
+    Estado: Estado_21
+  Municipio_2108:
+    nombre_municipio: 'Juan Vicente Campo Elías'
+    Estado: Estado_21
+  Municipio_2109:
+    nombre_municipio: 'La Ceiba'
+    Estado: Estado_21
+  Municipio_2110:
+    nombre_municipio: Miranda
+    Estado: Estado_21
+  Municipio_2111:
+    nombre_municipio: 'Monte Carmelo'
+    Estado: Estado_21
+  Municipio_2112:
+    nombre_municipio: Motatán
+    Estado: Estado_21
+  Municipio_2113:
+    nombre_municipio: Pampán
+    Estado: Estado_21
+  Municipio_2114:
+    nombre_municipio: Pampanito
+    Estado: Estado_21
+  Municipio_2115:
+    nombre_municipio: 'Rafael Rangel'
+    Estado: Estado_21
+  Municipio_2116:
+    nombre_municipio: 'San Rafael de Carvajal'
+    Estado: Estado_21
+  Municipio_2117:
+    nombre_municipio: Sucre
+    Estado: Estado_21
+  Municipio_2118:
+    nombre_municipio: Trujillo
+    Estado: Estado_21
+  Municipio_2119:
+    nombre_municipio: Urdaneta
+    Estado: Estado_21
+  Municipio_2120:
+    nombre_municipio: Valera
+    Estado: Estado_21
+  Municipio_2201:
+    nombre_municipio: 'Arístides Bastidas'
+    Estado: Estado_22
+  Municipio_2202:
+    nombre_municipio: Bolívar
+    Estado: Estado_22
+  Municipio_2203:
+    nombre_municipio: Bruzual
+    Estado: Estado_22
+  Municipio_2204:
+    nombre_municipio: Cocorote
+    Estado: Estado_22
+  Municipio_2205:
+    nombre_municipio: Independencia
+    Estado: Estado_22
+  Municipio_2206:
+    nombre_municipio: 'José Antonio Páez'
+    Estado: Estado_22
+  Municipio_2207:
+    nombre_municipio: 'La Trinidad'
+    Estado: Estado_22
+  Municipio_2208:
+    nombre_municipio: 'Manuel Monge'
+    Estado: Estado_22
+  Municipio_2209:
+    nombre_municipio: Nirgua
+    Estado: Estado_22
+  Municipio_2210:
+    nombre_municipio: Peña
+    Estado: Estado_22
+  Municipio_2211:
+    nombre_municipio: 'San Felipe'
+    Estado: Estado_22
+  Municipio_2212:
+    nombre_municipio: Sucre
+    Estado: Estado_22
+  Municipio_2213:
+    nombre_municipio: Urachiche
+    Estado: Estado_22
+  Municipio_2214:
+    nombre_municipio: Veroes
+    Estado: Estado_22
+  Municipio_2301:
+    nombre_municipio: 'Almirante Padilla'
+    Estado: Estado_23
+  Municipio_2302:
+    nombre_municipio: Baralt
+    Estado: Estado_23
+  Municipio_2303:
+    nombre_municipio: Cabimas
+    Estado: Estado_23
+  Municipio_2304:
+    nombre_municipio: Catatumbo
+    Estado: Estado_23
+  Municipio_2305:
+    nombre_municipio: Colón
+    Estado: Estado_23
+  Municipio_1406:
+    nombre_municipio: 'Campo Elías'
+    Estado: Estado_14
+  Municipio_1420:
+    nombre_municipio: Sucre
+    Estado: Estado_14
+  Municipio_1408:
+    nombre_municipio: 'Cardenal Quintero'
+    Estado: Estado_14
+  Municipio_1410:
+    nombre_municipio: 'Julio César Salas'
+    Estado: Estado_14
+  Municipio_1418:
+    nombre_municipio: 'Rivas Dávila'
+    Estado: Estado_14
+  Municipio_1422:
+    nombre_municipio: 'Tulio Febres Cordero'
+    Estado: Estado_14
+  Municipio_1405:
+    nombre_municipio: 'Arzobispo Chacón'
+    Estado: Estado_14
+  Municipio_2306:
+    nombre_municipio: 'Francisco Javier Pulgar'
+    Estado: Estado_23
+  Municipio_2307:
+    nombre_municipio: 'Jesús Enrique Lossada'
+    Estado: Estado_23
+  Municipio_2308:
+    nombre_municipio: 'Jesús María Semprún'
+    Estado: Estado_23
+  Municipio_2309:
+    nombre_municipio: 'La Cañada de Urdaneta'
+    Estado: Estado_23
+  Municipio_2310:
+    nombre_municipio: Lagunillas
+    Estado: Estado_23
+  Municipio_2311:
+    nombre_municipio: 'Machiques de Perijá'
+    Estado: Estado_23
+  Municipio_2312:
+    nombre_municipio: Mara
+    Estado: Estado_23
+  Municipio_2313:
+    nombre_municipio: Maracaibo
+    Estado: Estado_23
+  Municipio_2314:
+    nombre_municipio: Miranda
+    Estado: Estado_23
+  Municipio_2315:
+    nombre_municipio: Páez
+    Estado: Estado_23
+  Municipio_2316:
+    nombre_municipio: 'Rosario de Perijá'
+    Estado: Estado_23
+  Municipio_2317:
+    nombre_municipio: 'San Francisco'
+    Estado: Estado_23
+  Municipio_2318:
+    nombre_municipio: 'Santa Rita'
+    Estado: Estado_23
+  Municipio_2319:
+    nombre_municipio: 'Simón Bolívar'
+    Estado: Estado_23
+  Municipio_2320:
+    nombre_municipio: Sucre
+    Estado: Estado_23
+  Municipio_2321:
+    nombre_municipio: 'Valmore Rodríguez'
+    Estado: Estado_23
+  Municipio_2401:
+    nombre_municipio: Vargas
+    Estado: Estado_24
+  Municipio_8801:
+    nombre_municipio: 'Archipiélago Los Roques'
+    Estado: Estado_88
+  Municipio_8802:
+    nombre_municipio: 'Los Testigos'
+    Estado: Estado_88
+  Municipio_8803:
+    nombre_municipio: Chimanas
+    Estado: Estado_88
+  Municipio_8804:
+    nombre_municipio: 'Grupo 4'
+    Estado: Estado_88
+  Municipio_8805:
+    nombre_municipio: 'Grupo 5'
+    Estado: Estado_88
+  Municipio_8806:
+    nombre_municipio: 'Grupo 6'
+    Estado: Estado_88
+  Municipio_8807:
+    nombre_municipio: 'Grupo 7'
+    Estado: Estado_88
+  Municipio_1407:
+    nombre_municipio: 'Caracciolo Parra Olmedo'
+    Estado: Estado_14
+  Municipio_1409:
+    nombre_municipio: Guaraque
+    Estado: Estado_14
+  Municipio_1423:
+    nombre_municipio: Zea
+    Estado: Estado_14
+  Municipio_1401:
+    nombre_municipio: 'Alberto Adriani'
+    Estado: Estado_14
+  Municipio_1403:
+    nombre_municipio: 'Antonio Pinto Salinas'
+    Estado: Estado_14
+  Municipio_1411:
+    nombre_municipio: 'Justo Briceño'
+    Estado: Estado_14
+  Municipio_1417:
+    nombre_municipio: Rangel
+    Estado: Estado_14
+  Municipio_1421:
+    nombre_municipio: Tovar
+    Estado: Estado_14
+  Municipio_1413:
+    nombre_municipio: Miranda
+    Estado: Estado_14
+  Municipio_1414:
+    nombre_municipio: 'Obispo Ramos de Lora'
+    Estado: Estado_14
+  Municipio_1415:
+    nombre_municipio: 'Padre Noguera'
+    Estado: Estado_14
+  Municipio_1416:
+    nombre_municipio: 'Pueblo Llano'
+    Estado: Estado_14
+  Municipio_1412:
+    nombre_municipio: Libertador
+    Estado: Estado_14
+  Municipio_1419:
+    nombre_municipio: 'Santos Marquina'
+    Estado: Estado_14
+  Municipio_203:
+    nombre_municipio: Atures
+    Estado: Estado_2
+  Municipio_204:
+    nombre_municipio: Autana
+    Estado: Estado_2

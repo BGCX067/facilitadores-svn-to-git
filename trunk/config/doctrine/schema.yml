@@ -1,0 +1,471 @@
+AreasFormacion:
+  connection: doctrine
+  tableName: areas_formacion
+  columns:
+    nombre_area:
+      type: string(50)
+      notnull: true
+  relations:
+    AreasFormacionFacilitador:
+      local: id
+      foreign: id_area_formacion
+      type: many
+    Secciones:
+      local: id
+      foreign: id_area_formacion
+      type: many
+AreasFormacionFacilitador:
+  connection: doctrine
+  tableName: areas_formacion_facilitador
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: true
+    id_area_formacion:
+      type: integer
+      notnull: true
+    estatus:
+      type: integer(1)
+      notnull: true
+  relations:
+    AreasFormacion:
+      local: id_area_formacion
+      foreign: id
+      type: one
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+    BitacoraFormacionFacilitador:
+      local: id
+      foreign: id_area_formacion_facilitador
+      type: many
+BitacoraFormacionFacilitador:
+  connection: doctrine
+  tableName: bitacora_formacion_facilitador
+  columns:
+    id_area_formacion_facilitador:
+      type: integer
+      notnull: true
+    fecha:
+      type: date(25)
+      notnull: true
+    estatus:
+      type: integer(1)
+      notnull: true
+      default: 0
+  relations:
+    AreasFormacionFacilitador:
+      local: id_area_formacion_facilitador
+      foreign: id
+      type: one
+    AreasFormacionFacilitador:  { onDelete: CASCADE, local: id_area_formacion_facilitador, foreign: id }
+BitacoraSecciones:
+  connection: doctrine
+  tableName: bitacora_secciones
+  columns:
+    id_secciones:
+      type: integer
+      notnull: true
+    id_identificacion:
+      type: integer
+      notnull: true
+    fecha:
+      type: date(25)
+      notnull: true
+  relations:
+    Secciones:
+      local: id_secciones
+      foreign: id
+      type: one
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+Correos:
+  connection: doctrine
+  tableName: correos
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: true
+    correo:
+      type: string(50)
+      notnull: true
+  relations:
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+DisponibilidadDias:
+  connection: doctrine
+  tableName: disponibilidad_dias
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: true
+    dia:
+      type: integer(1)
+      notnull: true
+  relations:
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+    DisponibilidadTurnos:
+      local: id
+      foreign: id_disponibilidad_dia
+      type: many
+DisponibilidadTrasladoEstado:
+  connection: doctrine
+  tableName: disponibilidad_traslado_estado
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: true
+    id_estado:
+      type: integer
+      notnull: true
+    id_municipio:
+      type: integer
+      notnull: true
+    requiere_traslado:
+      type: boolean(1)
+      default: false
+  relations:
+    Estado:
+      local: id_estado
+      foreign: id
+      type: one
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+    Municipio:
+      local: id_municipio
+      foreign: id
+      type: one
+DisponibilidadTurnos:
+  connection: doctrine
+  tableName: disponibilidad_turnos
+  columns:
+    id_disponibilidad_dia:
+      type: integer
+      notnull: true
+    turno:
+      type: string(20)
+      notnull: true
+  relations:
+    DisponibilidadDias:
+      local: id_disponibilidad_dia
+      foreign: id
+      type: one
+    DisponibilidadDias:  { onDelete: CASCADE, local: id_disponibilidad_dia, foreign: id }
+Ente:
+  connection: doctrine
+  tableName: ente
+  columns:
+    nombre_ente:
+      type: string(50)
+      notnull: true
+      unique: true
+    id_estado:
+      type: integer
+      notnull: true
+    id_municipio:
+      type: integer
+      notnull: true
+    id_parroquia:
+      type: integer
+      notnull: true
+  relations:
+    Estado:
+      local: id_estado
+      foreign: id
+      type: one
+    Municipio:
+      local: id_municipio
+      foreign: id
+      type: one
+    Parroquia:
+      local: id_parroquia
+      foreign: id
+      type: one
+    Secciones:
+      local: id
+      foreign: id_ente
+      type: many
+Estado:
+  connection: doctrine
+  tableName: estado
+  columns:
+    nombre_estado:
+      type: string(25)
+      notnull: true
+  relations:
+    Identificacion:
+      local: id
+      foreign: id_estado
+      type: many
+    DisponibilidadTrasladoEstado:
+      local: id
+      foreign: id_estado
+      type: many
+    Ente:
+      local: id
+      foreign: id_estado
+      type: many
+    Municipio:
+      local: id
+      foreign: id_estado
+      type: many
+Estudios:
+  connection: doctrine
+  tableName: estudios
+  columns:
+    nombre_estudio:
+      type: string(50)
+      notnull: true
+  relations:
+    NivelFormacion:
+      local: id
+      foreign: id_estudios
+      type: many
+Identificacion:
+  connection: doctrine
+  tableName: identificacion
+  columns:
+    nombre:
+      type: string(50)
+      notnull: true
+    apellido:
+      type: string(50)
+      notnull: true
+    cedula_pasaporte:
+      type: string(8)
+      notnull: true
+      unique: true
+    nacionalidad:
+      type: string(20)
+      notnull: true
+    direccion:
+      type: string(100)
+      notnull: true
+    sector:
+      type: string(100)
+      notnull: false
+    situacion_laboral:
+      type: string(50)
+      notnull: true
+    formacion_politica:
+      type: boolean(1)
+      notnull: true
+      default: false
+    habilitado:
+      type: boolean(1)
+      default: true
+    id_estado:
+      type: integer
+      notnull: true
+    id_municipio:
+      type: integer
+      notnull: true
+    id_parroquia:
+      type: integer
+      notnull: true
+  relations:
+    Estado:
+      local: id_estado
+      foreign: id
+      type: one
+    Municipio:
+      local: id_municipio
+      foreign: id
+      type: one
+    Parroquia:
+      local: id_parroquia
+      foreign: id
+      type: one
+    AreasFormacionFacilitador:
+      local: id
+      foreign: id_identificacion
+      type: many
+    DisponibilidadTrasladoEstado:
+      local: id
+      foreign: id_identificacion
+      type: many
+    Secciones:
+      local: id
+      foreign: id_identificacion
+      type: many
+    Ocupacion:
+      local: id
+      foreign: id_identificacion
+      type: many
+    DisponibilidadDias:
+      local: id
+      foreign: id_identificacion
+      type: many
+    Profesion:
+      local: id
+      foreign: id_identificacion
+      type: many
+    Correos:
+      local: id
+      foreign: id_identificacion
+      type: many
+    NivelFormacion:
+      local: id
+      foreign: id_identificacion
+      type: many
+    Telefonos:
+      local: id
+      foreign: id_identificacion
+      type: many
+    Bitacora_Secciones:
+      local: id
+      foreign: id_identificacion
+      type: many
+Municipio:
+  connection: doctrine
+  tableName: municipio
+  columns:
+    nombre_municipio:
+      type: string(50)
+      notnull: true
+    id_estado:
+      type: integer
+      notnull: true
+  relations:
+    Estado:
+      local: id_estado
+      foreign: id
+      type: one
+    Identificacion:
+      local: id
+      foreign: id_municipio
+      type: many
+    DisponibilidadTrasladoEstado:
+      local: id
+      foreign: id_municipio
+      type: many
+    Ente:
+      local: id
+      foreign: id_municipio
+      type: many
+NivelFormacion:
+  connection: doctrine
+  tableName: nivel_formacion
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: true
+    id_estudios:
+      type: integer
+      notnull: true
+  relations:
+    Estudios:
+      local: id_estudios
+      foreign: id
+      type: one
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+Ocupacion:
+  connection: doctrine
+  tableName: ocupacion
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: true
+    nombre_ocupacion:
+      type: string(50)
+      notnull: true
+  relations:
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+Parroquia:
+  connection: doctrine
+  tableName: parroquia
+  columns:
+    nombre_parroquia:
+      type: string(50)
+      notnull: true
+    id_municipio:
+      type: integer
+      notnull: true
+  relations:
+    Municipio:
+      local: id_municipio
+      foreign: id
+      type: one
+    Identificacion:
+      local: id
+      foreign: id_parroquia
+      type: many
+    Ente:
+      local: id
+      foreign: id_parroquia
+      type: many
+Profesion:
+  connection: doctrine
+  tableName: profesion
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: true
+    nombre_profesion:
+      type: string(50)
+      notnull: true
+  relations:
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+Secciones:
+  connection: doctrine
+  tableName: secciones
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: false
+    id_area_formacion:
+      type: integer
+      notnull: true
+    nombre_seccion:
+      type: string(50)
+      notnull: true
+    id_ente:
+      type: integer
+      notnull: true
+  relations:
+    AreasFormacion:
+      local: id_area_formacion
+      foreign: id
+      type: one
+    Ente:
+      local: id_ente
+      foreign: id
+      type: one
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one
+Telefonos:
+  connection: doctrine
+  tableName: telefonos
+  columns:
+    id_identificacion:
+      type: integer
+      notnull: true
+    numero:
+      type: string(12)
+      notnull: true
+  relations:
+    Identificacion:
+      local: id_identificacion
+      foreign: id
+      type: one

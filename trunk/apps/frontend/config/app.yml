@@ -1,0 +1,12 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  mensaje:
+    insertado: ¡Registro insertado con exito!
+    modificado: ¡Registro modificado con exito!
+    eliminado: ¡Registro eliminado con exito!
+
+  sf_guard_plugin:
+    success_signin_url: principal/index

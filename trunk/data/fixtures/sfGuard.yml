@@ -1,0 +1,108 @@
+sfGuardPermission:
+  sfGuardPermission_1:
+    name: supervisor
+    description: 'Permisos de administrador'
+    created_at: '2012-05-29 14:27:21'
+    updated_at: '2012-05-30 08:05:21'
+  sfGuardPermission_2:
+    name: operador
+    description: 'Permisos de inserción de datos'
+    created_at: '2012-05-29 22:40:54'
+    updated_at: '2012-05-30 08:05:42'
+  sfGuardPermission_3:
+    name: consultor
+    description: 'Permisos solo para consulta de reportes estadísticos'
+    created_at: '2012-05-30 08:06:30'
+    updated_at: '2012-05-30 08:06:30'
+sfGuardUser:
+  sfGuardUser_1:
+    first_name: 'Jose Joaquin'
+    last_name: Contreras
+    email_address: jcontreras@cenditel.gob.ve
+    username: jcontreras
+    algorithm: sha1
+    salt: 54d588c2da76df822ae9469593e755b5
+    password: d5477e38a3eb2bf6822f406772865f9e1e96920a
+    is_active: true
+    is_super_admin: false
+    last_login: '2012-05-30 09:02:59'
+    created_at: '2012-05-29 14:27:21'
+    updated_at: '2012-05-30 10:54:32'
+  sfGuardUser_3:
+    first_name: 'Miguel Angel'
+    last_name: Liendo
+    email_address: mliendo@cenditel.gob.ve
+    username: mliendo
+    algorithm: sha1
+    salt: 7b7883092f01d0cc2fa11a525ecfc32d
+    password: 068655ae57e3ce6da92fe1f502919c06b78f4729
+    is_active: true
+    is_super_admin: false
+    last_login: null
+    created_at: '2012-05-30 11:10:23'
+    updated_at: '2012-05-30 11:10:23'
+  sfGuardUser_2:
+    first_name: 'José Orlando'
+    last_name: Ruiz
+    email_address: jruiz@cenditel.gob.ve
+    username: jruiz
+    algorithm: sha1
+    salt: eb5fdd70541a06ca074c89c6f315bf4f
+    password: 2512f46044b08b88c985575672f6aa2f949ad264
+    is_active: true
+    is_super_admin: false
+    last_login: '2012-05-30 11:55:35'
+    created_at: '2012-05-29 22:41:57'
+    updated_at: '2012-05-30 11:55:35'
+  sfGuardUser_4:
+    first_name: Operador1
+    last_name: Operador1
+    email_address: operador1@cenditel.gob.ve
+    username: operador1
+    algorithm: sha1
+    salt: 2067a391fb7c6548d4401384f2e198b3
+    password: 72c0fdfe322584247ab23e57f47d36ffad865c03
+    is_active: true
+    is_super_admin: false
+    last_login: null
+    created_at: '2012-05-30 11:57:32'
+    updated_at: '2012-05-30 11:57:32'
+  sfGuardUser_5:
+    first_name: Consultor
+    last_name: Consultor
+    email_address: consultor@cenditel.gob.ve
+    username: consultor
+    algorithm: sha1
+    salt: 92b683f58559e11507406e5b5046af91
+    password: dcefe1036ee9bbc6f589a03a4b59919ace961852
+    is_active: true
+    is_super_admin: false
+    last_login: null
+    created_at: '2012-05-30 11:58:59'
+    updated_at: '2012-05-30 11:58:59'
+sfGuardUserPermission:
+  sfGuardUserPermission_1_1:
+    User: sfGuardUser_1
+    Permission: sfGuardPermission_1
+    created_at: '2012-05-29 21:04:46'
+    updated_at: '2012-05-29 21:04:46'
+  sfGuardUserPermission_2_1:
+    User: sfGuardUser_2
+    Permission: sfGuardPermission_1
+    created_at: '2012-05-30 08:03:36'
+    updated_at: '2012-05-30 08:03:36'
+  sfGuardUserPermission_3_1:
+    User: sfGuardUser_3
+    Permission: sfGuardPermission_1
+    created_at: '2012-05-30 11:10:23'
+    updated_at: '2012-05-30 11:10:23'
+  sfGuardUserPermission_4_2:
+    User: sfGuardUser_4
+    Permission: sfGuardPermission_2
+    created_at: '2012-05-30 11:57:32'
+    updated_at: '2012-05-30 11:57:32'
+  sfGuardUserPermission_5_3:
+    User: sfGuardUser_5
+    Permission: sfGuardPermission_3
+    created_at: '2012-05-30 11:58:59'
+    updated_at: '2012-05-30 11:58:59'

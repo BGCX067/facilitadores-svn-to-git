@@ -1,0 +1,7 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+
+default:
+  has_layout:     true
+  layout:         layout
+  javascripts:    [jquery-1.7.1.min.js, jquery-ui-1.8.17.custom.min.js,filtro_geo_ente.js]
